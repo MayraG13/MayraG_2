@@ -1142,3 +1142,528 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.03.26-07.52.01:885][402]LogEditorActor: Deleted Actor: StaticMeshActor
 [2019.03.26-07.52.01:922][402]LogEditorActor: Deleted 1 Actors (0.063 secs)
 [2019.03.26-07.52.09:622][964]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-07.52.42:979][ 77]LogSavePackage: Moving '../../../../../../Users/Mayra/Documents/Unreal Projects/MayraG_02/Saved/MG2_Auto9D95E0C1F46DEB1D8D592F8AFFCBE4BDD.tmp' to '../../../../../../Users/Mayra/Documents/Unreal Projects/MayraG_02/Saved/Autosaves/Game/MayaG2/WorldMap/MG2_Auto9.umap'
+[2019.03.26-07.52.42:982][ 77]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MayaG2/WorldMap/MG2' took 0.651
+[2019.03.26-07.52.42:982][ 77]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.651
+[2019.03.26-07.54.35:764][288]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Bottom_Decor_41)
+[2019.03.26-07.54.48:752][391]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_34)
+[2019.03.26-07.54.51:588][652]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_33)
+[2019.03.26-07.54.55:322][974]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Bottom_Decor_39)
+[2019.03.26-07.54.59:851][371]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.03.26-07.56.42:229][844]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-07.56.43:092][924]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.03.26-08.02.48:105][629]LogSavePackage: Moving '../../../../../../Users/Mayra/Documents/Unreal Projects/MayraG_02/Saved/MG2_Auto0F58E906744543BB0C1AEA1BF9FE8665C.tmp' to '../../../../../../Users/Mayra/Documents/Unreal Projects/MayraG_02/Saved/Autosaves/Game/MayaG2/WorldMap/MG2_Auto0.umap'
+[2019.03.26-08.02.48:110][629]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MayaG2/WorldMap/MG2' took 0.850
+[2019.03.26-08.02.48:110][629]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.850
+[2019.03.26-08.11.27:324][952]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-08.11.31:466][325]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-08.11.36:988][818]LogEditorViewport: Clicking Background
+[2019.03.26-08.11.42:499][369]Cmd: EDIT COPY
+[2019.03.26-08.11.42:789][399]Cmd: EDIT PASTE
+[2019.03.26-08.11.54:909][518]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-08.12.04:463][398]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere2)
+[2019.03.26-08.12.07:872][702]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-08.12.13:498][218]Cmd: DELETE
+[2019.03.26-08.12.13:498][218]Cmd: ACTOR DELETE
+[2019.03.26-08.12.13:546][218]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2019.03.26-08.12.13:546][218]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2019.03.26-08.12.13:547][218]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.26-08.12.13:548][218]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.26-08.12.13:548][218]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.26-08.12.13:549][218]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.26-08.12.13:549][218]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.26-08.12.13:550][218]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.26-08.12.13:551][218]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.26-08.12.13:603][218]LogEditorActor: Deleted 9 Actors (0.105 secs)
+[2019.03.26-08.12.15:632][416]LogEditorViewport: Clicking Background
+[2019.03.26-08.12.17:348][586]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-08.12.23:846][203]Cmd: TRANSACTION UNDO
+[2019.03.26-08.12.23:846][203]LogEditorTransaction: Undo Marquee Select
+[2019.03.26-08.12.24:359][250]Cmd: TRANSACTION UNDO
+[2019.03.26-08.12.24:359][250]LogEditorTransaction: Undo Clicking Background
+[2019.03.26-08.12.24:863][288]Cmd: TRANSACTION UNDO
+[2019.03.26-08.12.24:863][288]LogEditorTransaction: Undo Marquee Select
+[2019.03.26-08.12.25:336][341]Cmd: TRANSACTION UNDO
+[2019.03.26-08.12.25:336][341]LogEditorTransaction: Undo Delete Actors
+[2019.03.26-08.12.32:972][ 91]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2019.03.26-08.12.33:019][ 91]LogEditorActor: Deleted 1 Actors (0.106 secs)
+[2019.03.26-08.12.36:725][488]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-08.12.41:072][950]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-08.12.46:748][556]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-08.12.46:948][575]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-08.12.47:323][608]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-08.12.51:751][ 46]Cmd: DELETE
+[2019.03.26-08.12.51:751][ 46]Cmd: ACTOR DELETE
+[2019.03.26-08.12.51:806][ 46]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2019.03.26-08.12.51:807][ 46]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.26-08.12.51:807][ 46]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.26-08.12.51:808][ 46]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.26-08.12.51:808][ 46]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.26-08.12.51:809][ 46]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.26-08.12.51:809][ 46]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.26-08.12.51:847][ 46]LogEditorActor: Deleted 7 Actors (0.096 secs)
+[2019.03.26-08.12.53:429][217]Cmd: TRANSACTION UNDO
+[2019.03.26-08.12.53:429][217]LogEditorTransaction: Undo Delete Actors
+[2019.03.26-08.12.59:064][779]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-08.13.00:740][927]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.26-08.13.00:741][927]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.26-08.13.00:741][927]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.26-08.13.00:742][927]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.26-08.13.00:743][927]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.26-08.13.00:743][927]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.26-08.13.00:788][927]LogEditorActor: Deleted 6 Actors (0.082 secs)
+[2019.03.26-08.13.07:096][575]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Arch_Ceiling_16)
+[2019.03.26-08.13.11:300][967]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Ceiling_6)
+[2019.03.26-08.13.12:482][ 72]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Ceiling_29)
+[2019.03.26-08.13.13:648][178]Cmd: TRANSACTION UNDO
+[2019.03.26-08.13.13:648][178]LogEditorTransaction: Undo Scale Actors
+[2019.03.26-08.13.14:039][201]Cmd: TRANSACTION UNDO
+[2019.03.26-08.13.14:039][201]LogEditorTransaction: Undo Scale Actors
+[2019.03.26-08.13.25:552][234]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Arch_Ceiling_15)
+[2019.03.26-08.13.26:481][307]Cmd: DELETE
+[2019.03.26-08.13.26:481][307]Cmd: ACTOR DELETE
+[2019.03.26-08.13.26:529][307]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.26-08.13.26:575][307]LogEditorActor: Deleted 1 Actors (0.093 secs)
+[2019.03.26-08.13.35:236][115]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-08.13.38:778][507]Cmd: TRANSACTION UNDO
+[2019.03.26-08.13.38:778][507]LogEditorTransaction: Undo Delete Actors
+[2019.03.26-08.13.40:618][673]Cmd: TRANSACTION UNDO
+[2019.03.26-08.13.40:619][673]LogEditorTransaction: Undo Clicking on Actors
+[2019.03.26-08.13.43:882][961]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Arch_Ceiling_15)
+[2019.03.26-08.13.56:779][145]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-08.14.06:382][  0]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Arch_Ceiling_15)
+[2019.03.26-08.14.07:242][ 81]Cmd: DELETE
+[2019.03.26-08.14.07:242][ 81]Cmd: ACTOR DELETE
+[2019.03.26-08.14.07:288][ 81]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.26-08.14.07:337][ 81]LogEditorActor: Deleted 1 Actors (0.094 secs)
+[2019.03.26-08.14.08:410][198]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-08.14.09:173][282]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_30)
+[2019.03.26-08.14.12:873][583]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-08.14.54:516][826]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_26)
+[2019.03.26-08.14.55:396][906]Cmd: DELETE
+[2019.03.26-08.14.55:396][906]Cmd: ACTOR DELETE
+[2019.03.26-08.14.55:423][906]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.26-08.14.55:467][906]LogEditorActor: Deleted 1 Actors (0.070 secs)
+[2019.03.26-08.14.56:186][983]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_25)
+[2019.03.26-08.14.56:712][ 33]Cmd: DELETE
+[2019.03.26-08.14.56:712][ 33]Cmd: ACTOR DELETE
+[2019.03.26-08.14.56:760][ 33]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.26-08.14.56:804][ 33]LogEditorActor: Deleted 1 Actors (0.092 secs)
+[2019.03.26-08.14.57:447][104]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_24)
+[2019.03.26-08.14.57:641][116]Cmd: DELETE
+[2019.03.26-08.14.57:641][116]Cmd: ACTOR DELETE
+[2019.03.26-08.14.57:679][116]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.26-08.14.57:729][116]LogEditorActor: Deleted 1 Actors (0.088 secs)
+[2019.03.26-08.14.58:418][191]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_30)
+[2019.03.26-08.15.23:251][201]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_20)
+[2019.03.26-08.15.27:974][622]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_24)
+[2019.03.26-08.15.29:241][734]Cmd: DELETE
+[2019.03.26-08.15.29:241][734]Cmd: ACTOR DELETE
+[2019.03.26-08.15.29:273][734]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.26-08.15.29:319][734]LogEditorActor: Deleted 1 Actors (0.078 secs)
+[2019.03.26-08.15.30:625][876]Cmd: TRANSACTION UNDO
+[2019.03.26-08.15.30:625][876]LogEditorTransaction: Undo Delete Actors
+[2019.03.26-08.15.45:361][115]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_30)
+[2019.03.26-08.15.46:770][253]Cmd: EDIT COPY
+[2019.03.26-08.15.47:078][283]Cmd: EDIT PASTE
+[2019.03.26-08.15.50:615][593]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Ceiling_32)
+[2019.03.26-08.15.50:637][593]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-08.15.57:041][ 98]Cmd: ACTOR MIRROR X=-1
+[2019.03.26-08.15.59:604][290]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_23)
+[2019.03.26-08.16.00:880][406]Cmd: DELETE
+[2019.03.26-08.16.00:880][406]Cmd: ACTOR DELETE
+[2019.03.26-08.16.00:911][406]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.26-08.16.00:955][406]LogEditorActor: Deleted 1 Actors (0.074 secs)
+[2019.03.26-08.16.01:341][449]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_22)
+[2019.03.26-08.16.01:430][454]Cmd: DELETE
+[2019.03.26-08.16.01:431][454]Cmd: ACTOR DELETE
+[2019.03.26-08.16.01:457][454]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.26-08.16.01:499][454]LogEditorActor: Deleted 1 Actors (0.068 secs)
+[2019.03.26-08.16.01:933][503]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_21)
+[2019.03.26-08.16.02:013][507]Cmd: DELETE
+[2019.03.26-08.16.02:013][507]Cmd: ACTOR DELETE
+[2019.03.26-08.16.02:072][507]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.26-08.16.02:116][507]LogEditorActor: Deleted 1 Actors (0.102 secs)
+[2019.03.26-08.16.03:544][662]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_32)
+[2019.03.26-08.16.18:668][940]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_43)
+[2019.03.26-08.16.22:664][313]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_31)
+[2019.03.26-08.16.32:344][ 78]Cmd: TRANSACTION UNDO
+[2019.03.26-08.16.32:344][ 78]LogEditorTransaction: Undo Move Actors
+[2019.03.26-08.16.38:160][609]Cmd: TRANSACTION UNDO
+[2019.03.26-08.16.38:160][609]LogEditorTransaction: Undo Move Actors
+[2019.03.26-08.16.43:299][978]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Column_High_23)
+[2019.03.26-08.16.57:887][164]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Column_High_21)
+[2019.03.26-08.17.38:488][930]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_20)
+[2019.03.26-08.17.40:962][143]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Ceiling_20)
+[2019.03.26-08.17.40:983][143]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-08.17.44:657][445]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_24)
+[2019.03.26-08.17.56:173][434]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_28)
+[2019.03.26-08.17.56:194][434]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-08.18.04:612][ 53]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_20)
+[2019.03.26-08.18.07:236][265]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_24)
+[2019.03.26-08.18.14:488][857]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-08.18.23:235][532]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_21)
+[2019.03.26-08.18.31:553][241]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-08.18.31:705][258]Cmd: MODE ROTGRID=0
+[2019.03.26-08.18.34:354][484]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_21)
+[2019.03.26-08.18.42:718][257]Cmd: TRANSACTION UNDO
+[2019.03.26-08.18.42:718][257]LogEditorTransaction: Undo Scale Actors
+[2019.03.26-08.18.43:339][299]Cmd: TRANSACTION UNDO
+[2019.03.26-08.18.43:339][299]LogEditorTransaction: Undo Scale Actors
+[2019.03.26-08.18.46:258][565]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-08.18.53:625][204]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-08.19.03:991][173]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-08.19.15:212][202]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-08.19.20:466][649]LogEditorViewport: Clicking Background
+[2019.03.26-08.19.21:843][801]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-08.19.26:594][275]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_24)
+[2019.03.26-08.19.35:262][999]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-08.19.45:834][923]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_20)
+[2019.03.26-08.19.58:046][947]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-08.20.18:365][499]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-08.20.26:025][203]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-08.20.44:199][684]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-08.21.13:403][506]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_17)
+[2019.03.26-08.21.14:677][621]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-08.21.14:943][645]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-08.21.17:459][888]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.03.26-08.21.26:550][589]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_22)
+[2019.03.26-08.21.37:280][508]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-08.22.04:124][874]LogEditorViewport: Clicking on Actor (LMB): Column_High_Corner_02_C (Column_High_Corner_3)
+[2019.03.26-08.22.05:191][966]LogEditorViewport: Clicking on Actor (LMB): Damaged_Column_01_C (Damaged_Column_2)
+[2019.03.26-08.22.08:388][224]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-08.22.16:663][ 16]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-08.22.24:990][779]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_31)
+[2019.03.26-08.22.25:364][808]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-08.22.27:060][984]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-08.22.31:561][399]LogEditorViewport: Clicking on Actor (LMB): Damaged_Column_01_C (Damaged_Column_2)
+[2019.03.26-08.22.37:981][994]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-08.22.44:034][507]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-08.22.58:653][807]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-08.23.40:531][232]Cmd: EDIT COPY
+[2019.03.26-08.23.40:785][252]Cmd: EDIT PASTE
+[2019.03.26-08.24.12:991][176]Cmd: EDIT COPY
+[2019.03.26-08.24.13:282][201]Cmd: EDIT PASTE
+[2019.03.26-08.25.03:662][386]LogSavePackage: Moving '../../../../../../Users/Mayra/Documents/Unreal Projects/MayraG_02/Saved/MG2_Auto1D46585C84D7D9A3C505D7FA68979F808.tmp' to '../../../../../../Users/Mayra/Documents/Unreal Projects/MayraG_02/Saved/Autosaves/Game/MayaG2/WorldMap/MG2_Auto1.umap'
+[2019.03.26-08.25.03:671][386]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MayaG2/WorldMap/MG2' took 1.014
+[2019.03.26-08.25.03:671][386]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.014
+[2019.03.26-08.26.03:659][457]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-08.28.06:528][ 24]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.03.26-08.28.14:557][618]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Column_10)
+[2019.03.26-08.28.19:920][ 92]Cmd: DELETE
+[2019.03.26-08.28.19:920][ 92]Cmd: ACTOR DELETE
+[2019.03.26-08.28.19:964][ 92]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.26-08.28.20:008][ 92]LogEditorActor: Deleted 1 Actors (0.088 secs)
+[2019.03.26-08.28.20:781][176]LogEditorViewport: Clicking on Actor (LMB): Column_High_Corner_02_C (Column_High_Corner_3)
+[2019.03.26-08.28.21:844][264]Cmd: DELETE
+[2019.03.26-08.28.21:844][264]Cmd: ACTOR DELETE
+[2019.03.26-08.28.21:870][264]LogEditorActor: Deleted Actor: Column_High_Corner_02_C
+[2019.03.26-08.28.21:915][264]LogEditorActor: Deleted 1 Actors (0.071 secs)
+[2019.03.26-08.28.23:296][412]Cmd: TRANSACTION UNDO
+[2019.03.26-08.28.23:296][412]LogEditorTransaction: Undo Delete Actors
+[2019.03.26-08.28.31:334][ 88]Cmd: DELETE
+[2019.03.26-08.28.31:334][ 88]Cmd: ACTOR DELETE
+[2019.03.26-08.28.31:380][ 88]LogEditorActor: Deleted Actor: Column_High_Corner_02_C
+[2019.03.26-08.28.31:427][ 88]LogEditorActor: Deleted 1 Actors (0.093 secs)
+[2019.03.26-08.28.32:006][150]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Column_High_Corner_02)
+[2019.03.26-08.28.32:512][191]Cmd: DELETE
+[2019.03.26-08.28.32:512][191]Cmd: ACTOR DELETE
+[2019.03.26-08.28.32:544][191]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.26-08.28.32:589][191]LogEditorActor: Deleted 1 Actors (0.077 secs)
+[2019.03.26-08.29.10:329][ 22]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-08.34.49:046][337]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-08.34.49:064][338]LogStaticMesh: Building static mesh SM_FP_Wall_Corner_01...
+[2019.03.26-08.34.49:085][338]LogStaticMesh: Built static mesh [0.02s] /Game/MultistoryDungeons/Blueprints/FIRST-PERSON_V2/FP_Base/SM_FP_Wall_Corner_01.SM_FP_Wall_Corner_01
+[2019.03.26-08.34.49:230][353]LogActorFactory: Actor Factory created SM_FP_Wall_Corner_01
+[2019.03.26-08.34.50:170][458]LogActorFactory: Actor Factory created SM_FP_Wall_Corner_01
+[2019.03.26-08.35.05:128][737]Cmd: DELETE
+[2019.03.26-08.35.05:128][737]Cmd: ACTOR DELETE
+[2019.03.26-08.35.05:170][737]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.26-08.35.05:216][737]LogEditorActor: Deleted 1 Actors (0.088 secs)
+[2019.03.26-08.35.06:739][903]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_10)
+[2019.03.26-08.35.08:897][ 93]Cmd: EDIT COPY
+[2019.03.26-08.35.09:208][120]Cmd: EDIT PASTE
+[2019.03.26-08.35.10:972][283]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-08.35.14:103][575]Cmd: TRANSACTION UNDO
+[2019.03.26-08.35.14:103][575]LogEditorTransaction: Undo Rotate Actors
+[2019.03.26-08.35.15:156][659]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-08.35.15:270][671]Cmd: MODE ROTGRID=1
+[2019.03.26-08.35.23:979][425]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-08.35.43:358][921]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-08.35.56:867][213]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_13)
+[2019.03.26-08.36.01:032][572]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-08.36.07:293][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-08.36.24:363][659]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-08.36.29:829][168]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.26-08.36.29:872][168]LogEditorActor: Deleted 1 Actors (0.096 secs)
+[2019.03.26-08.36.31:572][351]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_12)
+[2019.03.26-08.37.13:570][486]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-08.37.15:153][635]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-08.37.15:952][635]LogSavePackage: Moving '../../../../../../Users/Mayra/Documents/Unreal Projects/MayraG_02/Saved/MG2_Auto23377E9354BF61546B60C4D886B18C13B.tmp' to '../../../../../../Users/Mayra/Documents/Unreal Projects/MayraG_02/Saved/Autosaves/Game/MayaG2/WorldMap/MG2_Auto2.umap'
+[2019.03.26-08.37.15:958][635]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MayaG2/WorldMap/MG2' took 0.776
+[2019.03.26-08.37.15:958][635]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.776
+[2019.03.26-08.37.21:791][161]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_36)
+[2019.03.26-08.37.23:082][275]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-08.37.28:492][793]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-08.37.41:575][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-08.37.48:801][698]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-08.37.52:439][ 57]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-08.37.56:392][432]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-08.37.59:906][773]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-08.38.04:752][249]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-08.38.15:178][230]Cmd: TRANSACTION UNDO
+[2019.03.26-08.38.15:178][230]LogEditorTransaction: Undo Move Actors
+[2019.03.26-08.38.15:545][259]Cmd: TRANSACTION UNDO
+[2019.03.26-08.38.15:545][259]LogEditorTransaction: Undo Scale Actors
+[2019.03.26-08.38.15:931][296]Cmd: TRANSACTION UNDO
+[2019.03.26-08.38.15:931][296]LogEditorTransaction: Undo Move Actors
+[2019.03.26-08.38.16:349][332]Cmd: TRANSACTION UNDO
+[2019.03.26-08.38.16:349][332]LogEditorTransaction: Undo Scale Actors
+[2019.03.26-08.38.16:768][374]Cmd: TRANSACTION UNDO
+[2019.03.26-08.38.16:768][374]LogEditorTransaction: Undo Move Actors
+[2019.03.26-08.38.17:509][443]Cmd: TRANSACTION UNDO
+[2019.03.26-08.38.17:509][443]LogEditorTransaction: Undo Scale Actors
+[2019.03.26-08.38.22:587][888]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-08.38.54:300][422]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Bottom_Decor_38)
+[2019.03.26-08.39.03:560][198]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.03.26-08.39.12:858][880]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_10)
+[2019.03.26-08.39.14:468][ 19]Cmd: DELETE
+[2019.03.26-08.39.14:468][ 19]Cmd: ACTOR DELETE
+[2019.03.26-08.39.14:498][ 19]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.26-08.39.14:543][ 19]LogEditorActor: Deleted 1 Actors (0.075 secs)
+[2019.03.26-08.39.15:363][105]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_36)
+[2019.03.26-08.39.21:200][630]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_35)
+[2019.03.26-08.39.24:250][918]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_36)
+[2019.03.26-08.39.25:929][ 68]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_35)
+[2019.03.26-08.39.28:482][297]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_36)
+[2019.03.26-08.39.35:568][963]Cmd: EDIT COPY
+[2019.03.26-08.39.35:857][987]Cmd: EDIT PASTE
+[2019.03.26-08.39.43:153][586]Cmd: TRANSACTION UNDO
+[2019.03.26-08.39.43:153][586]LogEditorTransaction: Undo Move Actors
+[2019.03.26-08.39.43:534][612]Cmd: TRANSACTION UNDO
+[2019.03.26-08.39.43:534][612]LogEditorTransaction: Undo Paste
+[2019.03.26-08.39.43:592][612]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/MayaG2/WorldMap/MG2.MG2:PersistentLevel.ModelComponent_0, Buffer: 85833740, Buffer Size: 0, Element: 0
+[2019.03.26-08.39.43:592][612]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/MayaG2/WorldMap/MG2.MG2:PersistentLevel.ModelComponent_0' invalid (840 verts, 0 indices).
+[2019.03.26-08.39.43:592][612]LogPhysics: Warning: Attempt to build physics data for /Game/MayaG2/WorldMap/MG2.MG2:PersistentLevel.ModelComponent_0.BodySetup_0 when we are unable to.
+[2019.03.26-08.39.43:592][612]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/MayaG2/WorldMap/MG2.MG2:PersistentLevel.ModelComponent_1, Buffer: 85833740, Buffer Size: 0, Element: 0
+[2019.03.26-08.39.43:592][612]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/MayaG2/WorldMap/MG2.MG2:PersistentLevel.ModelComponent_1' invalid (840 verts, 0 indices).
+[2019.03.26-08.39.43:593][612]LogPhysics: Warning: Attempt to build physics data for /Game/MayaG2/WorldMap/MG2.MG2:PersistentLevel.ModelComponent_1.BodySetup_0 when we are unable to.
+[2019.03.26-08.39.43:593][612]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/MayaG2/WorldMap/MG2.MG2:PersistentLevel.ModelComponent_2, Buffer: 85833740, Buffer Size: 0, Element: 0
+[2019.03.26-08.39.43:593][612]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/MayaG2/WorldMap/MG2.MG2:PersistentLevel.ModelComponent_2' invalid (840 verts, 0 indices).
+[2019.03.26-08.39.43:593][612]LogPhysics: Warning: Attempt to build physics data for /Game/MayaG2/WorldMap/MG2.MG2:PersistentLevel.ModelComponent_2.BodySetup_0 when we are unable to.
+[2019.03.26-08.39.43:593][612]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/MayaG2/WorldMap/MG2.MG2:PersistentLevel.ModelComponent_3, Buffer: 85833740, Buffer Size: 0, Element: 0
+[2019.03.26-08.39.43:593][612]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/MayaG2/WorldMap/MG2.MG2:PersistentLevel.ModelComponent_4, Buffer: 85833740, Buffer Size: 0, Element: 0
+[2019.03.26-08.39.43:593][612]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/MayaG2/WorldMap/MG2.MG2:PersistentLevel.ModelComponent_4, Buffer: 85833740, Buffer Size: 0, Element: 1
+[2019.03.26-08.39.43:593][612]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/MayaG2/WorldMap/MG2.MG2:PersistentLevel.ModelComponent_4' invalid (840 verts, 0 indices).
+[2019.03.26-08.39.43:593][612]LogPhysics: Warning: Attempt to build physics data for /Game/MayaG2/WorldMap/MG2.MG2:PersistentLevel.ModelComponent_4.BodySetup_0 when we are unable to.
+[2019.03.26-08.39.43:944][641]Cmd: TRANSACTION UNDO
+[2019.03.26-08.39.43:944][641]LogEditorTransaction: Undo Move Actors
+[2019.03.26-08.39.44:394][681]Cmd: TRANSACTION UNDO
+[2019.03.26-08.39.44:394][681]LogEditorTransaction: Undo Clicking on Actors
+[2019.03.26-08.39.44:869][716]Cmd: TRANSACTION UNDO
+[2019.03.26-08.39.44:869][716]LogEditorTransaction: Undo Move Actors
+[2019.03.26-08.39.45:359][757]Cmd: TRANSACTION UNDO
+[2019.03.26-08.39.45:359][757]LogEditorTransaction: Undo Clicking on Actors
+[2019.03.26-08.39.45:842][796]Cmd: TRANSACTION UNDO
+[2019.03.26-08.39.45:842][796]LogEditorTransaction: Undo Clicking on Actors
+[2019.03.26-08.39.46:375][839]Cmd: TRANSACTION UNDO
+[2019.03.26-08.39.46:376][839]LogEditorTransaction: Undo Clicking on Actors
+[2019.03.26-08.39.46:965][887]Cmd: TRANSACTION UNDO
+[2019.03.26-08.39.46:966][887]LogEditorTransaction: Undo Clicking on Actors
+[2019.03.26-08.39.47:648][961]Cmd: TRANSACTION UNDO
+[2019.03.26-08.39.47:648][961]LogEditorTransaction: Undo Delete Actors
+[2019.03.26-08.39.51:797][310]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-08.39.58:300][845]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-08.40.04:917][448]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-08.40.09:310][827]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.03.26-08.40.13:570][181]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_10)
+[2019.03.26-08.40.15:019][298]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-08.40.25:527][189]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.03.26-08.40.27:374][344]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_12)
+[2019.03.26-08.40.42:161][569]LogSlate: Took 0.009323 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.03.26-08.40.42:884][629]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-08.40.45:369][878]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_12)
+[2019.03.26-08.40.46:708][999]Cmd: EDIT COPY
+[2019.03.26-08.40.47:036][ 32]Cmd: EDIT PASTE
+[2019.03.26-08.40.53:145][498]Cmd: TRANSACTION UNDO
+[2019.03.26-08.40.53:145][498]LogEditorTransaction: Undo Move Actors
+[2019.03.26-08.40.54:382][609]Cmd: TRANSACTION UNDO
+[2019.03.26-08.40.54:382][609]LogEditorTransaction: Undo Paste
+[2019.03.26-08.40.54:442][609]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/MayaG2/WorldMap/MG2.MG2:PersistentLevel.ModelComponent_0, Buffer: b5a8b6a0, Buffer Size: 0, Element: 0
+[2019.03.26-08.40.54:442][609]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/MayaG2/WorldMap/MG2.MG2:PersistentLevel.ModelComponent_0' invalid (840 verts, 0 indices).
+[2019.03.26-08.40.54:442][609]LogPhysics: Warning: Attempt to build physics data for /Game/MayaG2/WorldMap/MG2.MG2:PersistentLevel.ModelComponent_0.BodySetup_0 when we are unable to.
+[2019.03.26-08.40.54:442][609]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/MayaG2/WorldMap/MG2.MG2:PersistentLevel.ModelComponent_1, Buffer: b5a8b6a0, Buffer Size: 0, Element: 0
+[2019.03.26-08.40.54:442][609]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/MayaG2/WorldMap/MG2.MG2:PersistentLevel.ModelComponent_1' invalid (840 verts, 0 indices).
+[2019.03.26-08.40.54:442][609]LogPhysics: Warning: Attempt to build physics data for /Game/MayaG2/WorldMap/MG2.MG2:PersistentLevel.ModelComponent_1.BodySetup_0 when we are unable to.
+[2019.03.26-08.40.54:443][609]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/MayaG2/WorldMap/MG2.MG2:PersistentLevel.ModelComponent_2, Buffer: b5a8b6a0, Buffer Size: 0, Element: 0
+[2019.03.26-08.40.54:443][609]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/MayaG2/WorldMap/MG2.MG2:PersistentLevel.ModelComponent_2' invalid (840 verts, 0 indices).
+[2019.03.26-08.40.54:443][609]LogPhysics: Warning: Attempt to build physics data for /Game/MayaG2/WorldMap/MG2.MG2:PersistentLevel.ModelComponent_2.BodySetup_0 when we are unable to.
+[2019.03.26-08.40.54:443][609]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/MayaG2/WorldMap/MG2.MG2:PersistentLevel.ModelComponent_3, Buffer: b5a8b6a0, Buffer Size: 0, Element: 0
+[2019.03.26-08.40.54:443][609]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/MayaG2/WorldMap/MG2.MG2:PersistentLevel.ModelComponent_4, Buffer: b5a8b6a0, Buffer Size: 0, Element: 0
+[2019.03.26-08.40.54:443][609]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/MayaG2/WorldMap/MG2.MG2:PersistentLevel.ModelComponent_4, Buffer: b5a8b6a0, Buffer Size: 0, Element: 1
+[2019.03.26-08.40.54:444][609]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/MayaG2/WorldMap/MG2.MG2:PersistentLevel.ModelComponent_4' invalid (840 verts, 0 indices).
+[2019.03.26-08.40.54:444][609]LogPhysics: Warning: Attempt to build physics data for /Game/MayaG2/WorldMap/MG2.MG2:PersistentLevel.ModelComponent_4.BodySetup_0 when we are unable to.
+[2019.03.26-08.41.03:218][346]Cmd: EDIT COPY
+[2019.03.26-08.41.03:506][372]Cmd: EDIT PASTE
+[2019.03.26-08.41.17:785][352]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_6)
+[2019.03.26-08.41.18:785][433]Cmd: DELETE
+[2019.03.26-08.41.18:785][433]Cmd: ACTOR DELETE
+[2019.03.26-08.41.18:812][433]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.26-08.41.18:858][433]LogEditorActor: Deleted 1 Actors (0.073 secs)
+[2019.03.26-08.41.21:352][665]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_20)
+[2019.03.26-08.41.22:417][755]Cmd: DELETE
+[2019.03.26-08.41.22:417][755]Cmd: ACTOR DELETE
+[2019.03.26-08.41.22:477][755]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.26-08.41.22:523][755]LogEditorActor: Deleted 1 Actors (0.106 secs)
+[2019.03.26-08.41.23:606][874]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_14)
+[2019.03.26-08.41.23:654][874]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-08.41.28:780][294]Cmd: ACTOR MIRROR X=-1
+[2019.03.26-08.41.34:665][854]Cmd: TRANSACTION UNDO
+[2019.03.26-08.41.34:665][854]LogEditorTransaction: Undo Move Actors
+[2019.03.26-08.41.40:534][354]Cmd: TRANSACTION UNDO
+[2019.03.26-08.41.40:534][354]LogEditorTransaction: Undo Move Actors
+[2019.03.26-08.41.40:991][390]Cmd: TRANSACTION UNDO
+[2019.03.26-08.41.40:991][390]LogEditorTransaction: Undo Move Actors
+[2019.03.26-08.41.41:550][435]Cmd: TRANSACTION UNDO
+[2019.03.26-08.41.41:550][435]LogEditorTransaction: Undo Clicking on Actors
+[2019.03.26-08.41.42:251][494]Cmd: TRANSACTION UNDO
+[2019.03.26-08.41.42:251][494]LogEditorTransaction: Undo Mirroring Actors
+[2019.03.26-08.41.43:032][573]Cmd: TRANSACTION UNDO
+[2019.03.26-08.41.43:032][573]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2019.03.26-08.41.44:390][723]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_14)
+[2019.03.26-08.41.48:230][ 76]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_14)
+[2019.03.26-08.41.48:249][ 76]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-08.41.50:773][269]Cmd: ACTOR MIRROR X=-1
+[2019.03.26-08.41.52:078][384]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_32)
+[2019.03.26-08.41.53:957][548]Cmd: DELETE
+[2019.03.26-08.41.53:957][548]Cmd: ACTOR DELETE
+[2019.03.26-08.41.53:983][548]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.26-08.41.54:027][548]LogEditorActor: Deleted 1 Actors (0.071 secs)
+[2019.03.26-08.41.54:952][648]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_14)
+[2019.03.26-08.41.55:852][726]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_45)
+[2019.03.26-08.41.56:958][823]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_13)
+[2019.03.26-08.42.28:349][477]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.03.26-08.42.29:467][568]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_45)
+[2019.03.26-08.42.32:475][815]Cmd: TRANSACTION UNDO
+[2019.03.26-08.42.32:475][815]LogEditorTransaction: Undo Clicking on Actors
+[2019.03.26-08.42.33:060][858]Cmd: TRANSACTION UNDO
+[2019.03.26-08.42.33:060][858]LogEditorTransaction: Undo Clicking on Actors
+[2019.03.26-08.42.33:596][897]Cmd: TRANSACTION UNDO
+[2019.03.26-08.42.33:596][897]LogEditorTransaction: Undo Move Actors
+[2019.03.26-08.42.34:202][947]Cmd: TRANSACTION UNDO
+[2019.03.26-08.42.34:202][947]LogEditorTransaction: Undo Move Actors
+[2019.03.26-08.42.39:867][458]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.03.26-08.42.42:307][638]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Bottom_Decor_14)
+[2019.03.26-08.43.00:405][172]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_37)
+[2019.03.26-08.43.03:160][424]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.03.26-08.43.14:058][425]Cmd: TRANSACTION UNDO
+[2019.03.26-08.43.14:058][425]LogEditorTransaction: Undo Clicking on Actors
+[2019.03.26-08.43.14:532][453]Cmd: TRANSACTION UNDO
+[2019.03.26-08.43.14:532][453]LogEditorTransaction: Undo Clicking on Actors
+[2019.03.26-08.43.15:089][493]Cmd: TRANSACTION UNDO
+[2019.03.26-08.43.15:090][493]LogEditorTransaction: Undo Move Actors
+[2019.03.26-08.43.15:589][539]Cmd: TRANSACTION UNDO
+[2019.03.26-08.43.15:589][539]LogEditorTransaction: Undo Clicking on Actors
+[2019.03.26-08.43.30:133][737]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Bottom_Decor_14)
+[2019.03.26-08.43.33:440][ 22]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.03.26-08.44.53:970][492]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_24)
+[2019.03.26-08.44.55:049][583]Cmd: DELETE
+[2019.03.26-08.44.55:049][583]Cmd: ACTOR DELETE
+[2019.03.26-08.44.55:094][583]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.26-08.44.55:135][583]LogEditorActor: Deleted 1 Actors (0.085 secs)
+[2019.03.26-08.44.56:303][707]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_40)
+[2019.03.26-08.44.57:671][839]Cmd: DELETE
+[2019.03.26-08.44.57:671][839]Cmd: ACTOR DELETE
+[2019.03.26-08.44.57:698][839]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.26-08.44.57:742][839]LogEditorActor: Deleted 1 Actors (0.070 secs)
+[2019.03.26-08.44.58:742][947]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_36)
+[2019.03.26-08.45.00:661][106]Cmd: EDIT COPY
+[2019.03.26-08.45.00:951][130]Cmd: EDIT PASTE
+[2019.03.26-08.45.11:327][ 34]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.03.26-08.45.12:855][162]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_40)
+[2019.03.26-08.45.14:237][283]Cmd: EDIT COPY
+[2019.03.26-08.45.14:518][311]Cmd: EDIT PASTE
+[2019.03.26-08.45.42:828][689]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.03.26-08.45.45:894][944]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_46)
+[2019.03.26-08.45.50:066][338]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.03.26-08.46.04:433][565]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_36)
+[2019.03.26-08.46.08:093][895]Cmd: EDIT COPY
+[2019.03.26-08.46.08:382][921]Cmd: EDIT PASTE
+[2019.03.26-08.46.12:501][295]Cmd: TRANSACTION UNDO
+[2019.03.26-08.46.12:501][295]LogEditorTransaction: Undo Move Actors
+[2019.03.26-08.46.17:651][761]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_47)
+[2019.03.26-08.46.17:671][761]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-08.46.23:337][184]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_44)
+[2019.03.26-08.46.24:123][255]Cmd: DELETE
+[2019.03.26-08.46.24:123][255]Cmd: ACTOR DELETE
+[2019.03.26-08.46.24:165][255]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.26-08.46.24:215][255]LogEditorActor: Deleted 1 Actors (0.092 secs)
+[2019.03.26-08.46.25:695][366]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_28)
+[2019.03.26-08.46.26:507][433]Cmd: DELETE
+[2019.03.26-08.46.26:507][433]Cmd: ACTOR DELETE
+[2019.03.26-08.46.26:569][433]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.26-08.46.26:622][433]LogEditorActor: Deleted 1 Actors (0.114 secs)
+[2019.03.26-08.46.27:994][581]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_45)
+[2019.03.26-08.46.32:040][951]Cmd: DELETE
+[2019.03.26-08.46.32:041][951]Cmd: ACTOR DELETE
+[2019.03.26-08.46.32:101][951]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.26-08.46.32:146][951]LogEditorActor: Deleted 1 Actors (0.106 secs)
+[2019.03.26-08.46.34:858][243]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_47)
+[2019.03.26-08.46.37:939][482]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_47)
+[2019.03.26-08.46.37:963][482]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-08.46.40:694][711]Cmd: ACTOR MIRROR X=-1
+[2019.03.26-08.46.52:913][739]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.03.26-08.46.54:736][879]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_47)
+[2019.03.26-08.47.01:963][486]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.03.26-08.47.02:705][535]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_47)
+[2019.03.26-08.47.08:064][975]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.03.26-08.47.11:865][269]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_47)
+[2019.03.26-08.47.19:047][898]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.03.26-08.47.22:230][139]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_47)
+[2019.03.26-08.47.27:136][564]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.03.26-08.47.32:687][962]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_47)
+[2019.03.26-08.47.37:792][326]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.03.26-08.48.07:062][606]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-08.48.08:037][606]LogSavePackage: Moving '../../../../../../Users/Mayra/Documents/Unreal Projects/MayraG_02/Saved/MG2_Auto3E770900B41D3F06139C45C85E2315721.tmp' to '../../../../../../Users/Mayra/Documents/Unreal Projects/MayraG_02/Saved/Autosaves/Game/MayaG2/WorldMap/MG2_Auto3.umap'
+[2019.03.26-08.48.08:047][606]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MayaG2/WorldMap/MG2' took 0.947
+[2019.03.26-08.48.08:047][606]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.947
+[2019.03.26-08.48.09:673][748]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-08.48.09:732][754]LogStaticMesh: Building static mesh SM_Wall_Curved_03...
+[2019.03.26-08.48.09:745][754]LogStaticMesh: Built static mesh [0.01s] /Game/MultistoryDungeons/Blueprints/FIRST-PERSON_V2/FP_Base/SM_Wall_Curved_03.SM_Wall_Curved_03
+[2019.03.26-08.48.09:895][768]LogActorFactory: Actor Factory created SM_Wall_Curved_03
+[2019.03.26-08.48.10:510][816]LogActorFactory: Actor Factory created SM_Wall_Curved_03
+[2019.03.26-08.48.15:901][226]Cmd: DELETE
+[2019.03.26-08.48.15:902][226]Cmd: ACTOR DELETE
+[2019.03.26-08.48.15:952][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.26-08.48.16:001][226]LogEditorActor: Deleted 1 Actors (0.099 secs)
+[2019.03.26-08.48.19:822][627]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-08.48.19:886][633]LogStaticMesh: Building static mesh SM_Wall_Curved_02...
+[2019.03.26-08.48.19:902][633]LogStaticMesh: Built static mesh [0.02s] /Game/MultistoryDungeons/Blueprints/FIRST-PERSON_V2/FP_Base/SM_Wall_Curved_02.SM_Wall_Curved_02
+[2019.03.26-08.48.20:021][644]LogActorFactory: Actor Factory created SM_Wall_Curved_02
+[2019.03.26-08.48.20:845][719]LogActorFactory: Actor Factory created SM_Wall_Curved_02
+[2019.03.26-08.48.27:987][280]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-08.48.28:132][291]LogActorFactory: Actor Factory created SM_Wall_Curved_01
+[2019.03.26-08.48.29:559][386]LogActorFactory: Actor Factory created SM_Wall_Curved_01
+[2019.03.26-08.48.35:641][836]Cmd: DELETE
+[2019.03.26-08.48.35:641][836]Cmd: ACTOR DELETE
+[2019.03.26-08.48.35:675][836]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.26-08.48.35:721][836]LogEditorActor: Deleted 1 Actors (0.079 secs)
+[2019.03.26-08.48.36:104][861]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_Curved_02)
+[2019.03.26-08.48.38:682][ 70]Cmd: EDIT COPY
+[2019.03.26-08.48.38:943][ 91]Cmd: EDIT PASTE
+[2019.03.26-08.48.42:495][381]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Wall_Curved_3)
+[2019.03.26-08.48.42:515][381]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-08.48.46:399][613]Cmd: ACTOR MIRROR X=-1
+[2019.03.26-08.48.56:636][410]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.03.26-08.48.58:175][509]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_Curved_3)
+[2019.03.26-08.49.06:953][171]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Wall_Curved_02)
+[2019.03.26-08.49.06:976][171]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-08.49.34:503][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-08.49.45:252][934]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-08.50.00:195][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-08.50.05:660][ 98]LogSlate: Window 'Save Content' being destroyed
+[2019.03.26-08.50.05:667][ 98]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.26-08.50.06:450][ 98]LogSavePackage: Moving '../../../../../../Users/Mayra/Documents/Unreal Projects/MayraG_02/Saved/MG2358E6DDD4A698112543B089A7CF15864.tmp' to '../../../../../../Users/Mayra/Documents/Unreal Projects/MayraG_02/Content/MayaG2/WorldMap/MG2.umap'
+[2019.03.26-08.50.06:540][ 98]LogFileHelpers: Saving map 'MG2' took 0.867
+[2019.03.26-08.50.08:986][289]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.26-08.50.10:140][300]LogSavePackage: Moving '../../../../../../Users/Mayra/Documents/Unreal Projects/MayraG_02/Saved/MG212B62FD843CE021D45258ABCF6D33286.tmp' to '../../../../../../Users/Mayra/Documents/Unreal Projects/MayraG_02/Content/MayaG2/WorldMap/MG2.umap'
