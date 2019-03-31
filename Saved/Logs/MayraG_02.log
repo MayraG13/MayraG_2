@@ -1459,3 +1459,1440 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.03.31-06.48.19:770][253]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
 [2019.03.31-06.48.19:770][253]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
 [2019.03.31-06.48.25:132][888]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (5.362 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.31-06.52.07:837][771]LogEditorViewport: Clicking on Actor (LMB): Wall_Preset_01_C (Wall_Preset_8)
+[2019.03.31-06.52.11:000][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-06.52.23:611][466]LogEditorViewport: Clicking Background
+[2019.03.31-06.52.24:633][586]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-06.52.35:970][887]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-06.52.43:859][778]Cmd: EDIT COPY
+[2019.03.31-06.52.44:170][812]Cmd: EDIT PASTE
+[2019.03.31-06.52.57:711][319]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-06.53.00:559][636]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2019.03.31-06.53.00:608][636]LogEditorActor: Deleted 1 Actors (0.088 secs)
+[2019.03.31-06.53.21:814][814]Cmd: TRANSACTION UNDO
+[2019.03.31-06.53.21:814][814]LogEditorTransaction: Undo Move Actors
+[2019.03.31-06.53.27:599][348]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-06.53.29:461][560]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.03.31-06.53.36:516][350]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-06.54.07:870][670]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-06.54.19:859][806]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-06.54.29:389][773]LogEditorViewport: Clicking on Actor (LMB): Wall_Preset_01_C (Wall_Preset_24)
+[2019.03.31-06.54.31:736][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-06.55.27:968][862]Cmd: EDIT COPY
+[2019.03.31-06.55.28:280][896]Cmd: EDIT PASTE
+[2019.03.31-06.55.33:923][488]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-06.55.49:057][156]Cmd: EDIT COPY
+[2019.03.31-06.55.49:338][185]Cmd: EDIT PASTE
+[2019.03.31-06.56.01:335][495]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-06.56.03:732][760]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-06.56.13:374][716]LogEditorViewport: Clicking on Actor (LMB): Wall_Preset_01_C (Wall_Preset_31)
+[2019.03.31-06.56.29:293][364]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_24)
+[2019.03.31-06.56.33:542][808]Cmd: EDIT COPY
+[2019.03.31-06.56.33:804][834]Cmd: EDIT PASTE
+[2019.03.31-06.56.48:330][335]LogEditorViewport: Clicking on Actor (LMB): Wall_Preset_01_C (Wall_Preset_31)
+[2019.03.31-06.56.50:318][543]LogEditorViewport: Clicking on Actor (LMB): Wall_Preset_01_C (Wall_Preset_30)
+[2019.03.31-06.57.00:895][601]LogEditorViewport: Clicking on Actor (context menu): Wall_Preset_01_C (Wall_Preset_30)
+[2019.03.31-06.57.00:916][601]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-06.57.03:076][828]Cmd: ACTOR MIRROR X=-1
+[2019.03.31-06.57.06:042][156]Cmd: TRANSACTION UNDO
+[2019.03.31-06.57.06:042][156]LogEditorTransaction: Undo Mirroring Actors
+[2019.03.31-06.57.06:601][211]LogEditorViewport: Clicking on Actor (context menu): Wall_Preset_01_C (Wall_Preset_30)
+[2019.03.31-06.57.06:618][211]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-06.57.10:141][569]Cmd: ACTOR MIRROR Y=-1
+[2019.03.31-06.57.31:880][798]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_28)
+[2019.03.31-06.57.35:752][200]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-06.57.39:652][624]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-06.57.50:435][737]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-06.57.54:080][134]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-06.58.01:224][882]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.03.31-06.58.05:631][313]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-06.58.12:823][121]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-06.58.22:587][212]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Floor_21)
+[2019.03.31-06.58.22:621][212]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-06.58.34:049][370]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-06.59.16:154][ 31]LogSavePackage: Moving '../../../../../../Users/Mayra/Documents/Unreal Projects/MayraG_02/Saved/MG2_Auto13802515D43014CE8FA61D881595CBF1D.tmp' to '../../../../../../Users/Mayra/Documents/Unreal Projects/MayraG_02/Saved/Autosaves/Game/MayaG2/WorldMap/MG2_Auto1.umap'
+[2019.03.31-06.59.16:167][ 31]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MayaG2/WorldMap/MG2' took 1.328
+[2019.03.31-06.59.16:167][ 31]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.328
+[2019.03.31-07.03.56:193][869]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-07.04.05:490][802]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.03.31-07.04.06:198][862]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_28)
+[2019.03.31-07.04.07:836][ 40]Cmd: TRANSACTION UNDO
+[2019.03.31-07.04.07:836][ 40]LogEditorTransaction: Undo Clicking on Actors
+[2019.03.31-07.04.08:574][110]Cmd: TRANSACTION UNDO
+[2019.03.31-07.04.08:574][110]LogEditorTransaction: Undo Clicking on Actors
+[2019.03.31-07.04.23:590][608]LogEditorViewport: Clicking on Actor (LMB): Wall_Preset_01_C (Wall_Preset_28)
+[2019.03.31-07.04.35:391][784]LogEditorViewport: Clicking on Actor (LMB): Wall_Preset_01_C (Wall_Preset_28)
+[2019.03.31-07.04.56:384][937]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_28)
+[2019.03.31-07.05.00:824][395]Cmd: EDIT COPY
+[2019.03.31-07.05.01:142][430]Cmd: EDIT PASTE
+[2019.03.31-07.05.05:335][887]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.05.11:073][522]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.05.15:821][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.05.38:517][269]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.05.43:123][778]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.05.48:343][351]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.05.50:970][644]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.07.46:401][494]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-07.08.03:184][ 66]Cmd: DELETE
+[2019.03.31-07.08.03:184][ 66]Cmd: ACTOR DELETE
+[2019.03.31-07.08.03:221][ 66]LogEditorActor: Deleted Actor: Brush
+[2019.03.31-07.08.03:264][ 66]LogEditorActor: Deleted 1 Actors (0.080 secs)
+[2019.03.31-07.08.05:731][344]Cmd: DELETE
+[2019.03.31-07.08.05:731][344]Cmd: ACTOR DELETE
+[2019.03.31-07.08.05:793][344]LogEditorActor: Deleted Actor: Brush
+[2019.03.31-07.08.05:838][344]LogEditorActor: Deleted 1 Actors (0.106 secs)
+[2019.03.31-07.08.12:870][123]Cmd: DELETE
+[2019.03.31-07.08.12:870][123]Cmd: ACTOR DELETE
+[2019.03.31-07.08.12:918][123]LogEditorActor: Deleted Actor: Brush
+[2019.03.31-07.08.12:976][123]LogEditorActor: Deleted 1 Actors (0.106 secs)
+[2019.03.31-07.08.14:373][288]Cmd: TRANSACTION UNDO
+[2019.03.31-07.08.14:373][288]LogEditorTransaction: Undo Delete Actors
+[2019.03.31-07.08.16:099][463]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.08.26:356][527]Cmd: TRANSACTION UNDO
+[2019.03.31-07.08.26:356][527]LogEditorTransaction: Undo Scale Actors
+[2019.03.31-07.08.31:606][ 54]Cmd: TRANSACTION UNDO
+[2019.03.31-07.08.31:606][ 54]LogEditorTransaction: Undo Scale Actors
+[2019.03.31-07.08.43:057][190]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.08.48:386][765]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.09.03:739][494]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/MayaG2/Materials/P2_MG7_Top.P2_MG7_Top
+[2019.03.31-07.09.03:757][494]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2019.03.31-07.09.10:309][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.09.17:816][900]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-07.09.21:832][288]LogSlate: Window 'P2_MG7_Top' being destroyed
+[2019.03.31-07.09.21:835][288]LogSlate: Window 'P2_MG7_Top' being destroyed
+[2019.03.31-07.09.26:232][749]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.10.02:739][398]LogSavePackage: Moving '../../../../../../Users/Mayra/Documents/Unreal Projects/MayraG_02/Saved/MG2_Auto24C3852304032AB82B0F70D952B28122B.tmp' to '../../../../../../Users/Mayra/Documents/Unreal Projects/MayraG_02/Saved/Autosaves/Game/MayaG2/WorldMap/MG2_Auto2.umap'
+[2019.03.31-07.10.02:744][398]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MayaG2/WorldMap/MG2' took 1.365
+[2019.03.31-07.10.02:744][398]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.365
+[2019.03.31-07.10.19:058][448]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-07.10.21:659][719]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/MayaG2/Materials/P2_MG7_Top.P2_MG7_Top
+[2019.03.31-07.10.34:214][939]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-07.10.51:732][776]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.11.09:096][449]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-07.11.17:423][358]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-07.11.28:239][479]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.11.32:519][909]LogSlate: Window 'P2_MG7_Top' being destroyed
+[2019.03.31-07.11.32:523][909]LogSlate: Window 'P2_MG7_Top' being destroyed
+[2019.03.31-07.12.18:022][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.12.34:252][775]LogActorFactory: Actor Factory created Railing_Stair_Big_01
+[2019.03.31-07.12.35:142][852]LogActorFactory: Actor Factory created Railing_Stair_Big_01
+[2019.03.31-07.12.35:793][913]Cmd: DELETE
+[2019.03.31-07.12.35:793][913]Cmd: ACTOR DELETE
+[2019.03.31-07.12.35:855][913]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.12.35:899][913]LogEditorActor: Deleted 1 Actors (0.105 secs)
+[2019.03.31-07.12.41:835][581]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.12.52:494][746]LogActorFactory: Actor Factory created Staircase_02
+[2019.03.31-07.12.53:827][886]LogActorFactory: Actor Factory created Staircase_02
+[2019.03.31-07.13.15:565][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.13.25:780][ 81]LogStaticMesh: Building static mesh Arch_Double_01...
+[2019.03.31-07.13.25:799][ 81]LogStaticMesh: Built static mesh [0.02s] /Game/MultistoryDungeons/Meshes/FP_Update/Arch_Double_01.Arch_Double_01
+[2019.03.31-07.13.25:985][100]LogActorFactory: Actor Factory created Arch_Double_01
+[2019.03.31-07.13.26:555][156]LogActorFactory: Actor Factory created Arch_Double_01
+[2019.03.31-07.13.40:477][436]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.13.40:546][441]LogStaticMesh: Building static mesh Arch_Door_07...
+[2019.03.31-07.13.40:563][441]LogStaticMesh: Built static mesh [0.02s] /Game/MultistoryDungeons/Meshes/FP_Update/Arch_Door_07.Arch_Door_07
+[2019.03.31-07.13.40:626][445]LogActorFactory: Actor Factory created Arch_Door_07
+[2019.03.31-07.13.41:745][549]LogActorFactory: Actor Factory created Arch_Door_07
+[2019.03.31-07.13.42:653][639]Cmd: DELETE
+[2019.03.31-07.13.42:653][639]Cmd: ACTOR DELETE
+[2019.03.31-07.13.42:697][639]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.13.42:737][639]LogEditorActor: Deleted 1 Actors (0.084 secs)
+[2019.03.31-07.13.52:649][733]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.13.52:743][743]LogStaticMesh: Building static mesh Staircase_01...
+[2019.03.31-07.13.52:762][743]LogStaticMesh: Built static mesh [0.02s] /Game/MultistoryDungeons/Meshes/FP_Update/Staircase_01.Staircase_01
+[2019.03.31-07.13.52:829][749]LogActorFactory: Actor Factory created Staircase_01
+[2019.03.31-07.13.54:073][885]LogActorFactory: Actor Factory created Staircase_01
+[2019.03.31-07.13.56:074][ 86]Cmd: DELETE
+[2019.03.31-07.13.56:074][ 86]Cmd: ACTOR DELETE
+[2019.03.31-07.13.56:118][ 86]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.13.56:166][ 86]LogEditorActor: Deleted 1 Actors (0.092 secs)
+[2019.03.31-07.14.00:158][528]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.14.00:327][546]LogActorFactory: Actor Factory created Staircase_02
+[2019.03.31-07.14.00:928][610]LogActorFactory: Actor Factory created Staircase_02
+[2019.03.31-07.14.04:357][922]Cmd: DELETE
+[2019.03.31-07.14.04:357][922]Cmd: ACTOR DELETE
+[2019.03.31-07.14.04:410][922]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.14.04:454][922]LogEditorActor: Deleted 1 Actors (0.096 secs)
+[2019.03.31-07.14.07:127][198]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Arch_Double_01)
+[2019.03.31-07.14.17:970][322]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.14.17:996][324]LogStaticMesh: Building static mesh Arch_Door_03...
+[2019.03.31-07.14.18:022][324]LogStaticMesh: Built static mesh [0.03s] /Game/MultistoryDungeons/Meshes/FP_Update/Arch_Door_03.Arch_Door_03
+[2019.03.31-07.14.18:090][329]LogActorFactory: Actor Factory created Arch_Door_03
+[2019.03.31-07.14.19:117][420]LogActorFactory: Actor Factory created Arch_Door_03
+[2019.03.31-07.14.21:823][696]Cmd: DELETE
+[2019.03.31-07.14.21:823][696]Cmd: ACTOR DELETE
+[2019.03.31-07.14.21:863][696]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.14.21:903][696]LogEditorActor: Deleted 1 Actors (0.080 secs)
+[2019.03.31-07.14.26:134][194]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.14.26:154][196]LogStaticMesh: Building static mesh Arch_Top_02...
+[2019.03.31-07.14.26:164][196]LogStaticMesh: Built static mesh [0.01s] /Game/MultistoryDungeons/Meshes/FP_Update/Arch_Top_02.Arch_Top_02
+[2019.03.31-07.14.26:233][202]LogActorFactory: Actor Factory created Arch_Top_02
+[2019.03.31-07.14.26:866][268]LogActorFactory: Actor Factory created Arch_Top_02
+[2019.03.31-07.14.27:629][341]Cmd: DELETE
+[2019.03.31-07.14.27:629][341]Cmd: ACTOR DELETE
+[2019.03.31-07.14.27:673][341]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.14.27:708][341]LogEditorActor: Deleted 1 Actors (0.080 secs)
+[2019.03.31-07.14.29:879][599]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.14.30:021][614]LogActorFactory: Actor Factory created Base_Stair_Big_01
+[2019.03.31-07.14.31:422][762]LogActorFactory: Actor Factory created Base_Stair_Big_01
+[2019.03.31-07.14.32:777][905]LogActorFactory: Actor Factory created Base_Stair_Big_01
+[2019.03.31-07.14.37:063][330]Cmd: DELETE
+[2019.03.31-07.14.37:063][330]Cmd: ACTOR DELETE
+[2019.03.31-07.14.37:113][330]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.14.37:156][330]LogEditorActor: Deleted 1 Actors (0.093 secs)
+[2019.03.31-07.14.44:749][188]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.14.44:867][201]LogActorFactory: Actor Factory created Door_Bronze_01
+[2019.03.31-07.14.45:492][263]LogActorFactory: Actor Factory created Door_Bronze_01
+[2019.03.31-07.14.47:524][476]Cmd: DELETE
+[2019.03.31-07.14.47:524][476]Cmd: ACTOR DELETE
+[2019.03.31-07.14.47:582][476]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.14.47:624][476]LogEditorActor: Deleted 1 Actors (0.100 secs)
+[2019.03.31-07.14.53:233][115]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.14.53:300][121]LogActorFactory: Actor Factory created Wall_Window_01
+[2019.03.31-07.14.53:965][188]LogActorFactory: Actor Factory created Wall_Window_01
+[2019.03.31-07.16.24:073][771]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.16.24:108][775]LogStaticMesh: Building static mesh Wall_Upper_Decor_Corner_03...
+[2019.03.31-07.16.24:120][775]LogStaticMesh: Built static mesh [0.01s] /Game/MultistoryDungeons/Meshes/FP_Update/Wall_Upper_Decor_Corner_03.Wall_Upper_Decor_Corner_03
+[2019.03.31-07.16.24:209][782]LogActorFactory: Actor Factory created Wall_Upper_Decor_Corner_03
+[2019.03.31-07.16.24:977][855]LogActorFactory: Actor Factory created Wall_Upper_Decor_Corner_03
+[2019.03.31-07.16.40:056][320]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.16.40:075][322]LogStaticMesh: Building static mesh Wall_Upper_Decor_03...
+[2019.03.31-07.16.40:083][322]LogStaticMesh: Built static mesh [0.01s] /Game/MultistoryDungeons/Meshes/FP_Update/Wall_Upper_Decor_03.Wall_Upper_Decor_03
+[2019.03.31-07.16.40:264][340]LogActorFactory: Actor Factory created Wall_Upper_Decor_03
+[2019.03.31-07.16.41:431][449]LogActorFactory: Actor Factory created Wall_Upper_Decor_03
+[2019.03.31-07.16.44:883][786]Cmd: DELETE
+[2019.03.31-07.16.44:883][786]Cmd: ACTOR DELETE
+[2019.03.31-07.16.44:933][786]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.16.44:978][786]LogEditorActor: Deleted 1 Actors (0.095 secs)
+[2019.03.31-07.16.45:512][846]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Upper_Decor_Corner_03)
+[2019.03.31-07.16.45:603][851]Cmd: DELETE
+[2019.03.31-07.16.45:603][851]Cmd: ACTOR DELETE
+[2019.03.31-07.16.45:643][851]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.16.45:686][851]LogEditorActor: Deleted 1 Actors (0.082 secs)
+[2019.03.31-07.17.03:505][784]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Staircase_02)
+[2019.03.31-07.17.06:371][ 72]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Arch_Double_01)
+[2019.03.31-07.17.08:049][248]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Staircase_02)
+[2019.03.31-07.17.10:671][529]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Arch_Double_01)
+[2019.03.31-07.17.33:235][937]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.18.27:469][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.18.34:319][719]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.18.34:496][737]LogActorFactory: Actor Factory created Arch_Alley_01
+[2019.03.31-07.18.35:191][803]LogActorFactory: Actor Factory created Arch_Alley_01
+[2019.03.31-07.18.45:685][789]Cmd: EDIT COPY
+[2019.03.31-07.18.45:978][819]Cmd: EDIT PASTE
+[2019.03.31-07.19.20:381][219]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.19.20:440][224]LogActorFactory: Actor Factory created Arch_Door_02
+[2019.03.31-07.19.21:400][310]LogActorFactory: Actor Factory created Arch_Door_02
+[2019.03.31-07.19.21:833][348]Cmd: DELETE
+[2019.03.31-07.19.21:834][348]Cmd: ACTOR DELETE
+[2019.03.31-07.19.21:887][348]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.19.21:935][348]LogEditorActor: Deleted 1 Actors (0.101 secs)
+[2019.03.31-07.19.23:873][576]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.19.23:980][588]LogActorFactory: Actor Factory created Arch_Alley_01
+[2019.03.31-07.19.25:148][715]LogActorFactory: Actor Factory created Arch_Alley_01
+[2019.03.31-07.19.25:677][763]Cmd: DELETE
+[2019.03.31-07.19.25:678][763]Cmd: ACTOR DELETE
+[2019.03.31-07.19.25:726][763]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.19.25:775][763]LogEditorActor: Deleted 1 Actors (0.097 secs)
+[2019.03.31-07.19.26:249][818]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.19.26:398][834]LogActorFactory: Actor Factory created Arch_02
+[2019.03.31-07.19.26:987][899]LogActorFactory: Actor Factory created Arch_02
+[2019.03.31-07.19.27:138][910]Cmd: DELETE
+[2019.03.31-07.19.27:139][910]Cmd: ACTOR DELETE
+[2019.03.31-07.19.27:185][910]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.19.27:222][910]LogEditorActor: Deleted 1 Actors (0.084 secs)
+[2019.03.31-07.19.40:467][356]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.20.15:670][324]LogActorFactory: Actor Factory created SM_Archway_Tall_01
+[2019.03.31-07.20.16:274][388]LogActorFactory: Actor Factory created SM_Archway_Tall_01
+[2019.03.31-07.20.25:428][214]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.20.25:589][228]LogActorFactory: Actor Factory created SM_Doorway_04
+[2019.03.31-07.20.26:363][297]LogActorFactory: Actor Factory created SM_Doorway_04
+[2019.03.31-07.20.28:906][518]Cmd: DELETE
+[2019.03.31-07.20.28:906][518]Cmd: ACTOR DELETE
+[2019.03.31-07.20.28:946][518]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.20.28:993][518]LogEditorActor: Deleted 1 Actors (0.087 secs)
+[2019.03.31-07.20.29:777][601]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.20.29:904][613]LogActorFactory: Actor Factory created SM_Doorway_05
+[2019.03.31-07.20.30:430][663]LogActorFactory: Actor Factory created SM_Doorway_05
+[2019.03.31-07.20.33:904][985]Cmd: DELETE
+[2019.03.31-07.20.33:904][985]Cmd: ACTOR DELETE
+[2019.03.31-07.20.33:944][985]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.20.33:994][985]LogEditorActor: Deleted 1 Actors (0.089 secs)
+[2019.03.31-07.20.38:691][525]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.20.38:858][544]LogActorFactory: Actor Factory created SM_Windows_02
+[2019.03.31-07.20.39:948][666]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.20.42:025][868]LogRenderer: Reallocating scene render targets to support 1208x664 Format 10 NumSamples 1 (Frame:152987).
+[2019.03.31-07.20.45:578][279]Cmd: TRANSACTION UNDO
+[2019.03.31-07.20.45:578][279]LogEditorTransaction: Undo Delete Actors
+[2019.03.31-07.20.48:295][551]Cmd: DELETE
+[2019.03.31-07.20.48:295][551]Cmd: ACTOR DELETE
+[2019.03.31-07.20.48:338][551]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.20.48:377][551]LogEditorActor: Deleted 1 Actors (0.082 secs)
+[2019.03.31-07.20.50:360][783]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.20.50:462][794]LogActorFactory: Actor Factory created SM_Windows_01
+[2019.03.31-07.20.50:987][852]LogActorFactory: Actor Factory created SM_Windows_01
+[2019.03.31-07.21.16:655][236]LogEditorViewport: Clicking on Actor (LMB): Wall_Preset_01_C (Wall_Preset_24)
+[2019.03.31-07.21.17:592][326]Cmd: DELETE
+[2019.03.31-07.21.17:592][326]Cmd: ACTOR DELETE
+[2019.03.31-07.21.17:632][326]LogEditorActor: Deleted Actor: Wall_Preset_01_C
+[2019.03.31-07.21.17:688][326]LogEditorActor: Deleted 1 Actors (0.096 secs)
+[2019.03.31-07.21.18:353][402]LogEditorViewport: Clicking on Actor (LMB): Wall_Preset_01_C (Wall_Preset_29)
+[2019.03.31-07.21.18:623][427]Cmd: DELETE
+[2019.03.31-07.21.18:623][427]Cmd: ACTOR DELETE
+[2019.03.31-07.21.18:676][427]LogEditorActor: Deleted Actor: Wall_Preset_01_C
+[2019.03.31-07.21.18:714][427]LogEditorActor: Deleted 1 Actors (0.090 secs)
+[2019.03.31-07.21.20:112][588]LogEditorViewport: Clicking on Actor (LMB): Wall_Preset_01_C (Wall_Preset_27)
+[2019.03.31-07.21.20:432][617]Cmd: DELETE
+[2019.03.31-07.21.20:432][617]Cmd: ACTOR DELETE
+[2019.03.31-07.21.20:472][617]LogEditorActor: Deleted Actor: Wall_Preset_01_C
+[2019.03.31-07.21.20:515][617]LogEditorActor: Deleted 1 Actors (0.083 secs)
+[2019.03.31-07.21.21:404][719]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Windows_01)
+[2019.03.31-07.21.26:618][281]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-07.21.35:051][178]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-07.21.35:332][207]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-07.21.35:712][247]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-07.22.07:208][890]LogSavePackage: Moving '../../../../../../Users/Mayra/Documents/Unreal Projects/MayraG_02/Saved/MG2_Auto3779222B0495DD1C03CB4D496B4BFDB40.tmp' to '../../../../../../Users/Mayra/Documents/Unreal Projects/MayraG_02/Saved/Autosaves/Game/MayaG2/WorldMap/MG2_Auto3.umap'
+[2019.03.31-07.22.07:214][890]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MayaG2/WorldMap/MG2' took 1.346
+[2019.03.31-07.22.07:214][890]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.346
+[2019.03.31-07.23.06:391][287]Cmd: TRANSACTION UNDO
+[2019.03.31-07.23.06:391][287]LogEditorTransaction: Undo Move Actors
+[2019.03.31-07.23.06:739][316]Cmd: TRANSACTION UNDO
+[2019.03.31-07.23.06:739][316]LogEditorTransaction: Undo Move Actors
+[2019.03.31-07.23.07:106][350]Cmd: TRANSACTION UNDO
+[2019.03.31-07.23.07:106][350]LogEditorTransaction: Undo Move Actors
+[2019.03.31-07.23.07:492][386]Cmd: TRANSACTION UNDO
+[2019.03.31-07.23.07:492][386]LogEditorTransaction: Undo Move Actors
+[2019.03.31-07.23.07:896][429]Cmd: TRANSACTION UNDO
+[2019.03.31-07.23.07:896][429]LogEditorTransaction: Undo Move Actors
+[2019.03.31-07.23.08:254][470]Cmd: TRANSACTION UNDO
+[2019.03.31-07.23.08:254][470]LogEditorTransaction: Undo Move Actors
+[2019.03.31-07.23.08:625][513]Cmd: TRANSACTION UNDO
+[2019.03.31-07.23.08:625][513]LogEditorTransaction: Undo Move Actors
+[2019.03.31-07.23.09:000][557]Cmd: TRANSACTION UNDO
+[2019.03.31-07.23.09:000][557]LogEditorTransaction: Undo Move Actors
+[2019.03.31-07.23.09:453][608]Cmd: TRANSACTION UNDO
+[2019.03.31-07.23.09:453][608]LogEditorTransaction: Undo Clicking on Actors
+[2019.03.31-07.23.09:873][655]Cmd: TRANSACTION UNDO
+[2019.03.31-07.23.09:873][655]LogEditorTransaction: Undo Delete Actors
+[2019.03.31-07.23.10:268][691]Cmd: TRANSACTION UNDO
+[2019.03.31-07.23.10:268][691]LogEditorTransaction: Undo Clicking on Actors
+[2019.03.31-07.23.10:676][736]Cmd: TRANSACTION UNDO
+[2019.03.31-07.23.10:676][736]LogEditorTransaction: Undo Delete Actors
+[2019.03.31-07.23.11:065][771]Cmd: TRANSACTION UNDO
+[2019.03.31-07.23.11:065][771]LogEditorTransaction: Undo Clicking on Actors
+[2019.03.31-07.23.11:549][826]Cmd: TRANSACTION UNDO
+[2019.03.31-07.23.11:549][826]LogEditorTransaction: Undo Delete Actors
+[2019.03.31-07.23.12:489][915]Cmd: TRANSACTION UNDO
+[2019.03.31-07.23.12:489][915]LogEditorTransaction: Undo Clicking on Actors
+[2019.03.31-07.23.13:140][980]Cmd: TRANSACTION UNDO
+[2019.03.31-07.23.13:140][980]LogEditorTransaction: Undo Move Actors
+[2019.03.31-07.23.36:191][286]Cmd: DELETE
+[2019.03.31-07.23.36:191][286]Cmd: ACTOR DELETE
+[2019.03.31-07.23.36:248][286]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.23.36:286][286]LogEditorActor: Deleted 1 Actors (0.095 secs)
+[2019.03.31-07.23.37:595][438]Cmd: TRANSACTION UNDO
+[2019.03.31-07.23.37:595][438]LogEditorTransaction: Undo Delete Actors
+[2019.03.31-07.23.42:342][881]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Archway_Tall_01)
+[2019.03.31-07.23.43:068][948]Cmd: DELETE
+[2019.03.31-07.23.43:068][948]Cmd: ACTOR DELETE
+[2019.03.31-07.23.43:111][948]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.23.43:154][948]LogEditorActor: Deleted 1 Actors (0.086 secs)
+[2019.03.31-07.23.47:183][405]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.23.47:283][416]LogActorFactory: Actor Factory created SM_Arch_03
+[2019.03.31-07.23.47:794][469]LogActorFactory: Actor Factory created SM_Arch_03
+[2019.03.31-07.23.48:324][519]Cmd: DELETE
+[2019.03.31-07.23.48:324][519]Cmd: ACTOR DELETE
+[2019.03.31-07.23.48:384][519]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.23.48:429][519]LogEditorActor: Deleted 1 Actors (0.105 secs)
+[2019.03.31-07.23.49:732][666]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.23.49:894][683]LogActorFactory: Actor Factory created SM_Arcade_02
+[2019.03.31-07.23.50:303][725]LogActorFactory: Actor Factory created SM_Arcade_02
+[2019.03.31-07.23.55:981][267]Cmd: DELETE
+[2019.03.31-07.23.55:981][267]Cmd: ACTOR DELETE
+[2019.03.31-07.23.56:020][267]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.23.56:065][267]LogEditorActor: Deleted 1 Actors (0.084 secs)
+[2019.03.31-07.23.57:813][467]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.24.04:903][273]LogActorFactory: Actor Factory created SM_Archway_09
+[2019.03.31-07.24.05:561][343]LogActorFactory: Actor Factory created SM_Archway_09
+[2019.03.31-07.24.09:836][758]Cmd: DELETE
+[2019.03.31-07.24.09:836][758]Cmd: ACTOR DELETE
+[2019.03.31-07.24.09:888][758]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.24.09:941][758]LogEditorActor: Deleted 1 Actors (0.105 secs)
+[2019.03.31-07.24.10:725][848]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.24.10:819][858]LogActorFactory: Actor Factory created SM_Archway_08
+[2019.03.31-07.24.11:327][913]LogActorFactory: Actor Factory created SM_Archway_08
+[2019.03.31-07.24.11:578][934]Cmd: DELETE
+[2019.03.31-07.24.11:578][934]Cmd: ACTOR DELETE
+[2019.03.31-07.24.11:618][934]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.24.11:667][934]LogEditorActor: Deleted 1 Actors (0.089 secs)
+[2019.03.31-07.24.12:350][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.24.12:566][ 39]LogActorFactory: Actor Factory created SM_Archway_06
+[2019.03.31-07.24.12:917][ 74]LogActorFactory: Actor Factory created SM_Archway_06
+[2019.03.31-07.24.13:159][ 95]Cmd: DELETE
+[2019.03.31-07.24.13:159][ 95]Cmd: ACTOR DELETE
+[2019.03.31-07.24.13:208][ 95]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.24.13:249][ 95]LogEditorActor: Deleted 1 Actors (0.089 secs)
+[2019.03.31-07.24.13:989][180]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.24.14:123][195]LogActorFactory: Actor Factory created SM_Archway_10
+[2019.03.31-07.24.14:950][286]LogActorFactory: Actor Factory created SM_Archway_10
+[2019.03.31-07.24.15:367][324]Cmd: DELETE
+[2019.03.31-07.24.15:367][324]Cmd: ACTOR DELETE
+[2019.03.31-07.24.15:418][324]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.24.15:464][324]LogEditorActor: Deleted 1 Actors (0.096 secs)
+[2019.03.31-07.24.20:564][919]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.24.20:927][959]LogActorFactory: Actor Factory created SM_Window_Niche_02
+[2019.03.31-07.24.21:930][ 56]LogActorFactory: Actor Factory created SM_Window_Niche_02
+[2019.03.31-07.24.26:527][489]Cmd: DELETE
+[2019.03.31-07.24.26:527][489]Cmd: ACTOR DELETE
+[2019.03.31-07.24.26:579][489]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.24.26:626][489]LogEditorActor: Deleted 1 Actors (0.099 secs)
+[2019.03.31-07.24.31:389][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.24.31:510][ 25]LogActorFactory: Actor Factory created SM_Arch_Small_01
+[2019.03.31-07.24.32:094][ 81]LogActorFactory: Actor Factory created SM_Arch_Small_01
+[2019.03.31-07.24.37:370][577]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.24.37:467][586]LogActorFactory: Actor Factory created SM_Arch_Small_02
+[2019.03.31-07.24.38:378][659]LogActorFactory: Actor Factory created SM_Arch_Small_02
+[2019.03.31-07.24.40:187][842]Cmd: DELETE
+[2019.03.31-07.24.40:187][842]Cmd: ACTOR DELETE
+[2019.03.31-07.24.40:240][842]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.24.40:284][842]LogEditorActor: Deleted 1 Actors (0.097 secs)
+[2019.03.31-07.24.41:042][929]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Arch_Small_01)
+[2019.03.31-07.24.41:233][944]Cmd: DELETE
+[2019.03.31-07.24.41:233][944]Cmd: ACTOR DELETE
+[2019.03.31-07.24.41:273][944]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.24.41:315][944]LogEditorActor: Deleted 1 Actors (0.082 secs)
+[2019.03.31-07.24.42:790][115]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.24.42:925][130]LogActorFactory: Actor Factory created SM_Archway_Niche_01
+[2019.03.31-07.24.43:362][177]LogActorFactory: Actor Factory created SM_Archway_Niche_01
+[2019.03.31-07.24.43:958][239]Cmd: DELETE
+[2019.03.31-07.24.43:958][239]Cmd: ACTOR DELETE
+[2019.03.31-07.24.44:009][239]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.24.44:048][239]LogEditorActor: Deleted 1 Actors (0.089 secs)
+[2019.03.31-07.24.47:229][612]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.25.12:202][442]LogActorFactory: Actor Factory created SM_Arch_Big_Half_01
+[2019.03.31-07.25.12:615][487]LogActorFactory: Actor Factory created SM_Arch_Big_Half_01
+[2019.03.31-07.25.51:387][103]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.25.56:718][646]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.26.25:666][544]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.26.29:375][940]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.26.44:293][487]Cmd: EDIT COPY
+[2019.03.31-07.26.44:576][516]Cmd: EDIT PASTE
+[2019.03.31-07.26.47:221][796]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.26.55:096][642]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.26.58:079][959]Cmd: TRANSACTION UNDO
+[2019.03.31-07.26.58:079][959]LogEditorTransaction: Undo Move Actors
+[2019.03.31-07.27.13:979][570]Cmd: EDIT COPY
+[2019.03.31-07.27.14:245][597]Cmd: EDIT PASTE
+[2019.03.31-07.27.17:006][883]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Arch_Big_Half_3)
+[2019.03.31-07.27.17:028][883]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-07.27.19:493][102]Cmd: ACTOR MIRROR Y=-1
+[2019.03.31-07.27.20:854][250]Cmd: TRANSACTION UNDO
+[2019.03.31-07.27.20:854][250]LogEditorTransaction: Undo Mirroring Actors
+[2019.03.31-07.27.21:656][322]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Arch_Big_Half_3)
+[2019.03.31-07.27.21:675][322]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-07.27.23:888][513]Cmd: ACTOR MIRROR X=-1
+[2019.03.31-07.27.33:160][443]Cmd: TRANSACTION UNDO
+[2019.03.31-07.27.33:160][443]LogEditorTransaction: Undo Move Actors
+[2019.03.31-07.27.33:623][484]Cmd: TRANSACTION UNDO
+[2019.03.31-07.27.33:623][484]LogEditorTransaction: Undo Move Actors
+[2019.03.31-07.27.53:561][476]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Arch_Big_Half_3)
+[2019.03.31-07.27.54:703][587]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Arch_Big_Half_01)
+[2019.03.31-07.27.55:739][687]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.27.56:681][792]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Arch_Big_Half_3)
+[2019.03.31-07.28.02:132][358]Cmd: TRANSACTION UNDO
+[2019.03.31-07.28.02:132][358]LogEditorTransaction: Undo Rotate Actors
+[2019.03.31-07.28.05:160][668]Cmd: TRANSACTION UNDO
+[2019.03.31-07.28.05:160][668]LogEditorTransaction: Undo Rotate Actors
+[2019.03.31-07.28.05:164][668]Cmd: ACTOR SELECT ALL
+[2019.03.31-07.28.09:014][ 54]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_Curved_3)
+[2019.03.31-07.28.10:285][172]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Arch_Big_Half_3)
+[2019.03.31-07.28.11:971][347]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.28.16:207][802]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Arch_Big_Half_2)
+[2019.03.31-07.28.24:556][659]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.28.38:095][ 34]Cmd: TRANSACTION UNDO
+[2019.03.31-07.28.38:095][ 34]LogEditorTransaction: Undo Move Actors
+[2019.03.31-07.28.52:766][551]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.28.56:010][881]Cmd: TRANSACTION UNDO
+[2019.03.31-07.28.56:010][881]LogEditorTransaction: Undo Rotate Actors
+[2019.03.31-07.28.57:201][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.28.57:296][ 10]Cmd: MODE ROTGRID=0
+[2019.03.31-07.29.02:188][514]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-07.29.09:980][346]Cmd: TRANSACTION UNDO
+[2019.03.31-07.29.09:980][346]LogEditorTransaction: Undo Rotate Actors
+[2019.03.31-07.29.10:870][432]Cmd: TRANSACTION UNDO
+[2019.03.31-07.29.10:870][432]LogEditorTransaction: Undo Rotate Actors
+[2019.03.31-07.29.13:206][688]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Roof_MG2)
+[2019.03.31-07.29.14:412][810]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Arch_Big_Half_2)
+[2019.03.31-07.29.16:860][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.29.22:807][706]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-07.29.32:951][751]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Arch_Big_Half_01)
+[2019.03.31-07.29.55:136][ 39]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.29.55:460][ 72]LogActorFactory: Actor Factory created SM_Base_Curved_01
+[2019.03.31-07.29.58:962][400]LogActorFactory: Actor Factory created SM_Base_Curved_01
+[2019.03.31-07.29.59:639][469]Cmd: DELETE
+[2019.03.31-07.29.59:639][469]Cmd: ACTOR DELETE
+[2019.03.31-07.29.59:709][469]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.29.59:754][469]LogEditorActor: Deleted 1 Actors (0.114 secs)
+[2019.03.31-07.30.02:428][769]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.30.02:568][785]LogActorFactory: Actor Factory created SM_Arch_Half_01
+[2019.03.31-07.30.03:357][858]LogActorFactory: Actor Factory created SM_Arch_Half_01
+[2019.03.31-07.30.04:482][977]Cmd: DELETE
+[2019.03.31-07.30.04:482][977]Cmd: ACTOR DELETE
+[2019.03.31-07.30.04:526][977]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.30.04:570][977]LogEditorActor: Deleted 1 Actors (0.088 secs)
+[2019.03.31-07.30.06:888][252]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.30.21:645][937]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.30.43:590][409]LogActorFactory: Actor Factory created SM_Cornice_Curved_01
+[2019.03.31-07.30.44:526][515]LogActorFactory: Actor Factory created SM_Cornice_Curved_01
+[2019.03.31-07.30.47:004][749]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.30.51:362][207]Cmd: TRANSACTION UNDO
+[2019.03.31-07.30.51:362][207]LogEditorTransaction: Undo Rotate Actors
+[2019.03.31-07.30.52:438][313]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-07.30.53:901][473]Cmd: MODE ROTGRID=1
+[2019.03.31-07.30.59:330][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.31.15:195][571]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-07.31.26:022][720]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-07.31.31:407][279]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.31.42:535][424]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Bottom_Decor_22)
+[2019.03.31-07.31.43:740][549]Cmd: DELETE
+[2019.03.31-07.31.43:740][549]Cmd: ACTOR DELETE
+[2019.03.31-07.31.43:780][549]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.31.43:831][549]LogEditorActor: Deleted 1 Actors (0.092 secs)
+[2019.03.31-07.31.44:893][668]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Bottom_Decor_20)
+[2019.03.31-07.31.45:111][687]Cmd: DELETE
+[2019.03.31-07.31.45:111][687]Cmd: ACTOR DELETE
+[2019.03.31-07.31.45:154][687]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.31.45:199][687]LogEditorActor: Deleted 1 Actors (0.088 secs)
+[2019.03.31-07.31.45:688][742]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Bottom_Decor_23)
+[2019.03.31-07.31.45:855][755]Cmd: DELETE
+[2019.03.31-07.31.45:855][755]Cmd: ACTOR DELETE
+[2019.03.31-07.31.45:905][755]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.31.45:948][755]LogEditorActor: Deleted 1 Actors (0.093 secs)
+[2019.03.31-07.31.46:611][830]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Bottom_Decor_21)
+[2019.03.31-07.31.46:956][862]Cmd: DELETE
+[2019.03.31-07.31.46:956][862]Cmd: ACTOR DELETE
+[2019.03.31-07.31.46:996][862]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.31.47:046][862]LogEditorActor: Deleted 1 Actors (0.090 secs)
+[2019.03.31-07.31.47:659][931]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Bottom_Decor_19)
+[2019.03.31-07.31.47:823][943]Cmd: DELETE
+[2019.03.31-07.31.47:823][943]Cmd: ACTOR DELETE
+[2019.03.31-07.31.47:876][943]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.31.47:919][943]LogEditorActor: Deleted 1 Actors (0.095 secs)
+[2019.03.31-07.31.48:975][ 64]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Bottom_Decor_32)
+[2019.03.31-07.31.49:142][ 75]Cmd: DELETE
+[2019.03.31-07.31.49:142][ 75]Cmd: ACTOR DELETE
+[2019.03.31-07.31.49:184][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.31.49:229][ 75]LogEditorActor: Deleted 1 Actors (0.087 secs)
+[2019.03.31-07.31.55:676][745]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cornice_Curved_01)
+[2019.03.31-07.31.57:968][974]Cmd: EDIT COPY
+[2019.03.31-07.31.58:257][  5]Cmd: EDIT PASTE
+[2019.03.31-07.31.59:577][141]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.32.02:128][415]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Cornice_Curved_2)
+[2019.03.31-07.32.02:150][415]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-07.32.04:558][625]Cmd: ACTOR MIRROR X=-1
+[2019.03.31-07.32.06:366][811]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-07.32.13:125][528]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-07.32.15:776][812]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Arch_Big_Half_01)
+[2019.03.31-07.32.46:135][835]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.32.46:347][856]LogActorFactory: Actor Factory created SM_Cornice_01
+[2019.03.31-07.32.47:138][923]LogActorFactory: Actor Factory created SM_Cornice_01
+[2019.03.31-07.32.51:157][263]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.32.54:259][585]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.33.11:457][271]Cmd: DELETE
+[2019.03.31-07.33.11:457][271]Cmd: ACTOR DELETE
+[2019.03.31-07.33.11:514][271]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.33.11:564][271]LogEditorActor: Deleted 1 Actors (0.106 secs)
+[2019.03.31-07.33.16:571][820]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.33.16:733][837]LogActorFactory: Actor Factory created SM_Cornice_01
+[2019.03.31-07.33.18:144][980]LogActorFactory: Actor Factory created SM_Cornice_01
+[2019.03.31-07.33.19:065][ 73]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.33.23:317][521]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.33.42:836][446]Cmd: EDIT COPY
+[2019.03.31-07.33.43:104][473]Cmd: EDIT PASTE
+[2019.03.31-07.33.59:753][ 93]Cmd: EDIT COPY
+[2019.03.31-07.34.00:021][121]Cmd: EDIT PASTE
+[2019.03.31-07.34.11:082][195]Cmd: EDIT COPY
+[2019.03.31-07.34.11:339][219]Cmd: EDIT PASTE
+[2019.03.31-07.34.21:296][142]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.03.31-07.34.21:842][182]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cornice_6)
+[2019.03.31-07.34.22:583][256]Cmd: DELETE
+[2019.03.31-07.34.22:583][256]Cmd: ACTOR DELETE
+[2019.03.31-07.34.22:623][256]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.34.22:668][256]LogEditorActor: Deleted 1 Actors (0.084 secs)
+[2019.03.31-07.34.24:368][441]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cornice_5)
+[2019.03.31-07.34.39:199][930]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cornice_5)
+[2019.03.31-07.34.40:356][ 42]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.34.42:534][273]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.34.51:057][ 81]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cornice_01)
+[2019.03.31-07.34.56:927][659]Cmd: EDIT COPY
+[2019.03.31-07.34.57:226][689]Cmd: EDIT PASTE
+[2019.03.31-07.35.00:918][ 31]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Cornice_7)
+[2019.03.31-07.35.00:938][ 31]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-07.35.06:358][497]Cmd: ACTOR MIRROR Y=-1
+[2019.03.31-07.35.33:676][ 61]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cornice_8)
+[2019.03.31-07.35.42:075][852]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.35.45:281][193]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.36.11:462][909]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.36.11:591][922]LogActorFactory: Actor Factory created SM_Column_Arcade_01
+[2019.03.31-07.36.12:873][ 25]LogActorFactory: Actor Factory created SM_Column_Arcade_01
+[2019.03.31-07.36.20:185][744]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.36.20:276][752]LogActorFactory: Actor Factory created SM_Column_10
+[2019.03.31-07.36.22:473][950]LogActorFactory: Actor Factory created SM_Column_10
+[2019.03.31-07.36.24:379][112]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Column_Arcade_01)
+[2019.03.31-07.36.25:347][211]Cmd: DELETE
+[2019.03.31-07.36.25:347][211]Cmd: ACTOR DELETE
+[2019.03.31-07.36.25:387][211]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.36.25:434][211]LogEditorActor: Deleted 1 Actors (0.087 secs)
+[2019.03.31-07.36.27:546][432]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Column_10)
+[2019.03.31-07.36.29:193][596]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.36.37:051][392]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.36.57:814][369]Cmd: EDIT COPY
+[2019.03.31-07.36.58:083][395]Cmd: EDIT PASTE
+[2019.03.31-07.37.15:051][125]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.37.15:149][134]LogActorFactory: Actor Factory created SM_Column_14
+[2019.03.31-07.37.16:345][242]LogActorFactory: Actor Factory created SM_Column_14
+[2019.03.31-07.37.19:684][571]Cmd: DELETE
+[2019.03.31-07.37.19:684][571]Cmd: ACTOR DELETE
+[2019.03.31-07.37.19:732][571]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.37.19:786][571]LogEditorActor: Deleted 1 Actors (0.101 secs)
+[2019.03.31-07.37.21:630][781]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Column_17)
+[2019.03.31-07.37.23:257][950]Cmd: EDIT COPY
+[2019.03.31-07.37.23:770][  0]Cmd: EDIT PASTE
+[2019.03.31-07.37.33:100][903]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.37.36:835][309]Cmd: DELETE
+[2019.03.31-07.37.36:836][309]Cmd: ACTOR DELETE
+[2019.03.31-07.37.36:889][309]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.37.36:942][309]LogEditorActor: Deleted 1 Actors (0.107 secs)
+[2019.03.31-07.37.38:829][523]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.37.39:038][546]LogActorFactory: Actor Factory created SM_Column_08
+[2019.03.31-07.37.43:564][ 63]LogActorFactory: Actor Factory created SM_Column_08
+[2019.03.31-07.37.52:500][924]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.38.27:034][276]Cmd: EDIT COPY
+[2019.03.31-07.38.27:313][303]Cmd: EDIT PASTE
+[2019.03.31-07.39.08:801][493]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Arch_Big_Half_01)
+[2019.03.31-07.39.12:415][866]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.39.14:930][129]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.39.15:254][161]LogActorFactory: Actor Factory created SM_Cornice_Curved_01
+[2019.03.31-07.39.19:564][618]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.39.28:716][570]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.39.36:549][393]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-07.39.39:837][743]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-07.39.40:114][772]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-07.39.40:539][815]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-07.39.44:926][261]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.39.45:101][278]LogActorFactory: Actor Factory created SM_Cornice_Curved_01
+[2019.03.31-07.39.45:730][334]LogActorFactory: Actor Factory created SM_Cornice_Curved_01
+[2019.03.31-07.39.48:833][648]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.40.00:342][810]Cmd: EDIT COPY
+[2019.03.31-07.40.00:605][837]Cmd: EDIT PASTE
+[2019.03.31-07.40.02:505][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.40.07:279][502]Cmd: DELETE
+[2019.03.31-07.40.07:279][502]Cmd: ACTOR DELETE
+[2019.03.31-07.40.07:320][502]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.40.07:361][502]LogEditorActor: Deleted 1 Actors (0.082 secs)
+[2019.03.31-07.40.08:186][595]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cornice_Curved_3)
+[2019.03.31-07.40.08:485][618]Cmd: DELETE
+[2019.03.31-07.40.08:485][618]Cmd: ACTOR DELETE
+[2019.03.31-07.40.08:544][618]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.40.08:598][618]LogEditorActor: Deleted 1 Actors (0.112 secs)
+[2019.03.31-07.40.15:225][371]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.40.16:294][497]LogActorFactory: Actor Factory created SM_Ceiling_Intersection_Buttress_01
+[2019.03.31-07.40.18:040][690]LogActorFactory: Actor Factory created SM_Ceiling_Intersection_Buttress_01
+[2019.03.31-07.40.22:001][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.40.25:311][389]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.40.33:897][267]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.40.39:250][815]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Ceiling_06)
+[2019.03.31-07.40.39:288][815]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-07.40.40:210][908]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Ceiling_Intersection_Buttress_01)
+[2019.03.31-07.41.06:034][416]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.41.23:176][228]LogActorFactory: Actor Factory created SM_Arch_06
+[2019.03.31-07.41.24:249][313]LogActorFactory: Actor Factory created SM_Arch_06
+[2019.03.31-07.41.28:792][727]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.41.36:081][434]Cmd: DELETE
+[2019.03.31-07.41.36:081][434]Cmd: ACTOR DELETE
+[2019.03.31-07.41.36:121][434]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.41.36:164][434]LogEditorActor: Deleted 1 Actors (0.083 secs)
+[2019.03.31-07.41.38:160][660]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.41.38:281][673]LogActorFactory: Actor Factory created SM_Archway_10
+[2019.03.31-07.41.39:063][742]LogActorFactory: Actor Factory created SM_Archway_10
+[2019.03.31-07.41.43:168][147]Cmd: DELETE
+[2019.03.31-07.41.43:168][147]Cmd: ACTOR DELETE
+[2019.03.31-07.41.43:227][147]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.41.43:275][147]LogEditorActor: Deleted 1 Actors (0.107 secs)
+[2019.03.31-07.41.45:831][447]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.41.46:014][468]LogActorFactory: Actor Factory created SM_Doorway_07
+[2019.03.31-07.41.46:655][531]LogActorFactory: Actor Factory created SM_Doorway_07
+[2019.03.31-07.41.48:132][666]Cmd: DELETE
+[2019.03.31-07.41.48:132][666]Cmd: ACTOR DELETE
+[2019.03.31-07.41.48:189][666]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.41.48:233][666]LogEditorActor: Deleted 1 Actors (0.101 secs)
+[2019.03.31-07.41.49:249][782]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.41.50:792][945]LogActorFactory: Actor Factory created SM_Arcade_02
+[2019.03.31-07.41.51:349][995]LogActorFactory: Actor Factory created SM_Arcade_02
+[2019.03.31-07.41.53:539][211]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.42.01:888][ 26]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.42.19:855][781]Cmd: DELETE
+[2019.03.31-07.42.19:855][781]Cmd: ACTOR DELETE
+[2019.03.31-07.42.19:913][781]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.42.19:960][781]LogEditorActor: Deleted 1 Actors (0.105 secs)
+[2019.03.31-07.42.21:990][  1]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.42.22:123][ 15]LogActorFactory: Actor Factory created SM_Arcade_01
+[2019.03.31-07.42.22:927][ 99]LogActorFactory: Actor Factory created SM_Arcade_01
+[2019.03.31-07.42.24:465][242]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.42.28:974][710]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.42.39:832][692]Cmd: DELETE
+[2019.03.31-07.42.39:832][692]Cmd: ACTOR DELETE
+[2019.03.31-07.42.39:872][692]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.42.39:917][692]LogEditorActor: Deleted 1 Actors (0.084 secs)
+[2019.03.31-07.42.47:563][573]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.42.47:844][605]LogActorFactory: Actor Factory created SM_Windows_02
+[2019.03.31-07.42.48:642][686]LogActorFactory: Actor Factory created SM_Windows_02
+[2019.03.31-07.42.55:039][243]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.43.04:808][272]Cmd: DELETE
+[2019.03.31-07.43.04:808][272]Cmd: ACTOR DELETE
+[2019.03.31-07.43.04:848][272]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.43.04:898][272]LogEditorActor: Deleted 1 Actors (0.090 secs)
+[2019.03.31-07.43.07:883][604]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.43.20:139][ 11]LogActorFactory: Actor Factory created SM_Column_Ruined_03
+[2019.03.31-07.43.20:974][ 87]LogActorFactory: Actor Factory created SM_Column_Ruined_03
+[2019.03.31-07.43.25:019][443]Cmd: DELETE
+[2019.03.31-07.43.25:020][443]Cmd: ACTOR DELETE
+[2019.03.31-07.43.25:069][443]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.43.25:113][443]LogEditorActor: Deleted 1 Actors (0.093 secs)
+[2019.03.31-07.43.31:219][160]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.44.23:385][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.45.48:692][351]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.46.45:665][681]Cmd: DELETE
+[2019.03.31-07.46.45:665][681]Cmd: ACTOR DELETE
+[2019.03.31-07.46.45:706][681]LogEditorActor: Deleted Actor: Damaged_Arch_Alley_Corner_01_C
+[2019.03.31-07.46.45:753][681]LogEditorActor: Deleted 1 Actors (0.088 secs)
+[2019.03.31-07.46.49:131][ 76]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.47.00:728][261]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.47.19:181][842]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.47.22:986][252]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.47.55:023][229]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cornice_6)
+[2019.03.31-07.48.01:899][968]Cmd: DELETE
+[2019.03.31-07.48.01:899][968]Cmd: ACTOR DELETE
+[2019.03.31-07.48.01:941][968]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.48.02:005][968]LogEditorActor: Deleted 1 Actors (0.106 secs)
+[2019.03.31-07.48.03:297][118]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cornice_5)
+[2019.03.31-07.48.04:825][276]Cmd: EDIT COPY
+[2019.03.31-07.48.05:141][310]Cmd: EDIT PASTE
+[2019.03.31-07.48.33:910][157]LogEditorViewport: Clicking on Actor (LMB): Buttress_Preset_01_C (Buttress_Preset_01)
+[2019.03.31-07.48.41:505][859]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.48.46:928][438]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.48.54:423][ 85]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.48.56:332][258]Cmd: DELETE
+[2019.03.31-07.48.56:332][258]Cmd: ACTOR DELETE
+[2019.03.31-07.48.56:385][258]LogEditorActor: Deleted Actor: Buttress_01_C
+[2019.03.31-07.48.56:433][258]LogEditorActor: Deleted 1 Actors (0.101 secs)
+[2019.03.31-07.48.56:977][321]LogEditorViewport: Clicking on Actor (LMB): Buttress_02_C (Buttress_02)
+[2019.03.31-07.49.23:067][837]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.49.51:258][626]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Staircase_02)
+[2019.03.31-07.50.13:377][819]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Column_High_59)
+[2019.03.31-07.50.14:299][909]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Column_High_59)
+[2019.03.31-07.50.14:319][909]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-07.50.18:049][260]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Column_High_59)
+[2019.03.31-07.50.19:227][389]Cmd: DELETE
+[2019.03.31-07.50.19:227][389]Cmd: ACTOR DELETE
+[2019.03.31-07.50.19:268][389]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.50.19:311][389]LogEditorActor: Deleted 1 Actors (0.083 secs)
+[2019.03.31-07.50.30:412][643]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Staircase_02)
+[2019.03.31-07.50.39:159][551]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_45)
+[2019.03.31-07.50.40:349][675]Cmd: DELETE
+[2019.03.31-07.50.40:349][675]Cmd: ACTOR DELETE
+[2019.03.31-07.50.40:390][675]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.50.40:427][675]LogEditorActor: Deleted 1 Actors (0.078 secs)
+[2019.03.31-07.50.41:042][748]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Arch_Ceiling_44)
+[2019.03.31-07.50.41:172][756]Cmd: DELETE
+[2019.03.31-07.50.41:172][756]Cmd: ACTOR DELETE
+[2019.03.31-07.50.41:240][756]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.50.41:287][756]LogEditorActor: Deleted 1 Actors (0.114 secs)
+[2019.03.31-07.50.44:398][120]Cmd: TRANSACTION UNDO
+[2019.03.31-07.50.44:399][120]LogEditorTransaction: Undo Delete Actors
+[2019.03.31-07.50.44:785][152]Cmd: TRANSACTION UNDO
+[2019.03.31-07.50.44:785][152]LogEditorTransaction: Undo Clicking on Actors
+[2019.03.31-07.50.45:546][240]Cmd: TRANSACTION UNDO
+[2019.03.31-07.50.45:546][240]LogEditorTransaction: Undo Delete Actors
+[2019.03.31-07.50.46:084][293]Cmd: TRANSACTION UNDO
+[2019.03.31-07.50.46:084][293]LogEditorTransaction: Undo Clicking on Actors
+[2019.03.31-07.50.47:001][391]Cmd: TRANSACTION UNDO
+[2019.03.31-07.50.47:001][391]LogEditorTransaction: Undo Move Actors
+[2019.03.31-07.50.47:446][439]Cmd: TRANSACTION UNDO
+[2019.03.31-07.50.47:446][439]LogEditorTransaction: Undo Clicking on Actors
+[2019.03.31-07.50.47:917][494]Cmd: TRANSACTION UNDO
+[2019.03.31-07.50.47:917][494]LogEditorTransaction: Undo Delete Actors
+[2019.03.31-07.50.48:487][553]Cmd: TRANSACTION UNDO
+[2019.03.31-07.50.48:487][553]LogEditorTransaction: Undo Clicking on Actors
+[2019.03.31-07.50.49:999][715]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.03.31-07.50.52:167][928]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Staircase_02)
+[2019.03.31-07.51.16:169][444]Cmd: DELETE
+[2019.03.31-07.51.16:169][444]Cmd: ACTOR DELETE
+[2019.03.31-07.51.16:224][444]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.51.16:272][444]LogEditorActor: Deleted 1 Actors (0.103 secs)
+[2019.03.31-07.51.18:602][721]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.51.26:518][606]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.52.30:830][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-07.52.32:238][ 59]LogSavePackage: Moving '../../../../../../Users/Mayra/Documents/Unreal Projects/MayraG_02/Saved/MG2_Auto4FF15D58D493AB56319CF18AFE3D8F78B.tmp' to '../../../../../../Users/Mayra/Documents/Unreal Projects/MayraG_02/Saved/Autosaves/Game/MayaG2/WorldMap/MG2_Auto4.umap'
+[2019.03.31-07.52.32:247][ 59]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MayaG2/WorldMap/MG2' took 1.379
+[2019.03.31-07.52.32:247][ 59]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.379
+[2019.03.31-07.52.42:194][ 47]Cmd: DELETE
+[2019.03.31-07.52.42:194][ 47]Cmd: ACTOR DELETE
+[2019.03.31-07.52.42:234][ 47]LogEditorActor: Deleted Actor: Stair_Big_Preset_01_C
+[2019.03.31-07.52.42:286][ 47]LogEditorActor: Deleted 1 Actors (0.093 secs)
+[2019.03.31-07.52.42:938][124]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.52.51:245][960]Cmd: DELETE
+[2019.03.31-07.52.51:245][960]Cmd: ACTOR DELETE
+[2019.03.31-07.52.51:302][960]LogEditorActor: Deleted Actor: Stair_Big_01_C
+[2019.03.31-07.52.51:346][960]LogEditorActor: Deleted 1 Actors (0.101 secs)
+[2019.03.31-07.52.55:449][443]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.53.02:245][ 39]Cmd: DELETE
+[2019.03.31-07.53.02:245][ 39]Cmd: ACTOR DELETE
+[2019.03.31-07.53.02:309][ 39]LogEditorActor: Deleted Actor: Stair_Big_Preset_02_C
+[2019.03.31-07.53.02:358][ 39]LogEditorActor: Deleted 1 Actors (0.112 secs)
+[2019.03.31-07.53.21:974][284]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.53.23:974][461]Cmd: DELETE
+[2019.03.31-07.53.23:974][461]Cmd: ACTOR DELETE
+[2019.03.31-07.53.24:017][461]LogEditorActor: Deleted Actor: Stair_Big_Preset_06_C
+[2019.03.31-07.53.24:054][461]LogEditorActor: Deleted 1 Actors (0.080 secs)
+[2019.03.31-07.53.25:938][684]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.53.50:112][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.53.53:914][409]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.54.28:835][794]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.54.37:246][569]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.54.57:788][585]LogEditorViewport: Clicking on Actor (context menu): Stair_Big_Preset_03_C (Stair_Big_Preset_03)
+[2019.03.31-07.54.57:817][585]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-07.54.59:065][711]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Column_High_34)
+[2019.03.31-07.55.13:557][ 43]Cmd: TRANSACTION UNDO
+[2019.03.31-07.55.13:557][ 43]LogEditorTransaction: Undo Move Actors
+[2019.03.31-07.55.18:182][457]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_45)
+[2019.03.31-07.55.26:881][317]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-07.55.35:115][175]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-07.55.37:418][431]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-07.55.40:005][712]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Ceiling_45)
+[2019.03.31-07.55.40:026][712]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-07.55.46:782][372]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_21)
+[2019.03.31-07.55.57:859][455]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.03.31-07.55.58:394][493]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_70)
+[2019.03.31-07.56.02:943][938]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Column_High_59)
+[2019.03.31-07.56.05:285][182]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Column_High_59)
+[2019.03.31-07.56.05:306][182]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-07.56.13:229][950]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-07.56.21:986][862]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Ceiling_45)
+[2019.03.31-07.56.22:007][862]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-07.56.24:284][ 89]Cmd: ACTOR BAKEPREPIVOT
+[2019.03.31-07.56.25:418][200]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Ceiling_45)
+[2019.03.31-07.56.25:438][200]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-07.56.29:472][606]Cmd: PIVOT HERE
+[2019.03.31-07.56.34:950][169]Cmd: TRANSACTION UNDO
+[2019.03.31-07.56.34:950][169]LogEditorTransaction: Undo Move Actors
+[2019.03.31-07.56.35:332][201]Cmd: TRANSACTION UNDO
+[2019.03.31-07.56.35:332][201]LogEditorTransaction: Undo Actor Movement
+[2019.03.31-07.56.35:937][262]Cmd: TRANSACTION UNDO
+[2019.03.31-07.56.35:937][262]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2019.03.31-07.56.36:409][312]Cmd: TRANSACTION UNDO
+[2019.03.31-07.56.36:409][312]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2019.03.31-07.56.36:883][364]Cmd: TRANSACTION UNDO
+[2019.03.31-07.56.36:883][364]LogEditorTransaction: Undo Move Actors
+[2019.03.31-07.56.37:345][413]Cmd: TRANSACTION UNDO
+[2019.03.31-07.56.37:345][413]LogEditorTransaction: Undo Move Actors
+[2019.03.31-07.56.37:825][459]Cmd: TRANSACTION UNDO
+[2019.03.31-07.56.37:825][459]LogEditorTransaction: Undo Move Actors
+[2019.03.31-07.56.39:201][608]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-07.56.50:068][795]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-07.57.10:038][773]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_69)
+[2019.03.31-07.57.10:058][773]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-07.57.14:827][195]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Ceiling_45)
+[2019.03.31-07.57.14:848][195]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-07.57.17:735][464]Cmd: PIVOT HERE
+[2019.03.31-07.57.23:402][992]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_21)
+[2019.03.31-07.57.30:421][553]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-07.57.42:526][590]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-07.57.47:365][ 69]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_49)
+[2019.03.31-07.57.48:244][145]Cmd: DELETE
+[2019.03.31-07.57.48:244][145]Cmd: ACTOR DELETE
+[2019.03.31-07.57.48:318][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.57.48:396][145]LogEditorActor: Deleted 1 Actors (0.152 secs)
+[2019.03.31-07.57.48:836][190]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_48)
+[2019.03.31-07.57.48:986][201]Cmd: DELETE
+[2019.03.31-07.57.48:986][201]Cmd: ACTOR DELETE
+[2019.03.31-07.57.49:030][201]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.57.49:076][201]LogEditorActor: Deleted 1 Actors (0.091 secs)
+[2019.03.31-07.57.52:293][522]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.57.56:929][993]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.58.29:108][200]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.58.32:846][598]Cmd: TRANSACTION UNDO
+[2019.03.31-07.58.32:846][598]LogEditorTransaction: Undo Scale Actors
+[2019.03.31-07.58.33:459][650]LogEditorViewport: Clicking on Actor (LMB): Stair_Big_Preset_03_C (Stair_Big_Preset_03)
+[2019.03.31-07.58.46:646][947]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.58.55:634][771]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-07.59.01:019][327]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.59.34:286][925]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-07.59.36:749][199]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-07.59.37:515][281]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.03.31-07.59.43:912][866]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Arch_Alley_2)
+[2019.03.31-07.59.44:709][937]Cmd: DELETE
+[2019.03.31-07.59.44:709][937]Cmd: ACTOR DELETE
+[2019.03.31-07.59.44:756][937]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.59.44:802][937]LogEditorActor: Deleted 1 Actors (0.093 secs)
+[2019.03.31-07.59.45:464][ 11]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Arch_Alley_01)
+[2019.03.31-07.59.45:523][ 12]Cmd: DELETE
+[2019.03.31-07.59.45:523][ 12]Cmd: ACTOR DELETE
+[2019.03.31-07.59.45:568][ 12]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.31-07.59.45:620][ 12]LogEditorActor: Deleted 1 Actors (0.096 secs)
+[2019.03.31-08.00.21:709][833]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-08.00.28:031][336]Cmd: DELETE
+[2019.03.31-08.00.28:032][336]Cmd: ACTOR DELETE
+[2019.03.31-08.00.28:077][336]LogEditorActor: Deleted Actor: Wall_Arch_Corner_Preset_09_C
+[2019.03.31-08.00.28:122][336]LogEditorActor: Deleted 1 Actors (0.090 secs)
+[2019.03.31-08.00.33:312][948]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-08.01.43:144][446]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-08.01.46:382][768]Cmd: TRANSACTION UNDO
+[2019.03.31-08.01.46:382][768]LogEditorTransaction: Undo Scale Actors
+[2019.03.31-08.01.52:192][360]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-08.01.58:129][982]LogEditorViewport: Clicking on Actor (LMB): Wall_Corner_Preset_02_C (Wall_Corner_Preset_4)
+[2019.03.31-08.01.59:260][103]Cmd: DELETE
+[2019.03.31-08.01.59:260][103]Cmd: ACTOR DELETE
+[2019.03.31-08.01.59:306][103]LogEditorActor: Deleted Actor: Wall_Corner_Preset_02_C
+[2019.03.31-08.01.59:350][103]LogEditorActor: Deleted 1 Actors (0.089 secs)
+[2019.03.31-08.02.01:073][302]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-08.02.06:064][814]Cmd: TRANSACTION UNDO
+[2019.03.31-08.02.06:064][814]LogEditorTransaction: Undo Create Actors
+[2019.03.31-08.02.06:378][845]Cmd: TRANSACTION UNDO
+[2019.03.31-08.02.06:378][845]LogEditorTransaction: Undo Delete Actors
+[2019.03.31-08.02.16:501][880]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.03.31-08.02.16:529][880]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-08.02.17:774][ 17]LogEditorViewport: Clicking on Actor (LMB): Wall_Corner_Preset_02_C (Wall_Corner_Preset_4)
+[2019.03.31-08.02.26:866][959]Cmd: EDIT COPY
+[2019.03.31-08.02.27:173][993]Cmd: EDIT PASTE
+[2019.03.31-08.02.28:071][ 76]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-08.02.51:160][330]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-08.02.53:305][531]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-08.02.58:961][117]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-08.03.10:012][169]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-08.03.21:042][322]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-08.03.21:320][352]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-08.03.21:651][381]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-08.03.41:058][330]Cmd: EDIT COPY
+[2019.03.31-08.03.41:420][371]Cmd: EDIT PASTE
+[2019.03.31-08.03.44:407][683]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-08.03.48:300][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-08.03.51:679][460]Cmd: TRANSACTION UNDO
+[2019.03.31-08.03.51:680][460]LogEditorTransaction: Undo Move Actors
+[2019.03.31-08.03.52:335][518]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_6)
+[2019.03.31-08.03.53:877][670]Cmd: TRANSACTION UNDO
+[2019.03.31-08.03.53:877][670]LogEditorTransaction: Undo Clicking on Actors
+[2019.03.31-08.04.26:552][824]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.03.31-08.04.29:476][130]Cmd: TRANSACTION UNDO
+[2019.03.31-08.04.29:476][130]LogEditorTransaction: Undo Clicking on Actors
+[2019.03.31-08.04.36:569][832]LogEditorViewport: Clicking on Actor (context menu): Wall_Corner_Preset_02_C (Wall_Corner_Preset_5)
+[2019.03.31-08.04.36:589][832]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-08.04.41:090][236]Cmd: EDIT COPY
+[2019.03.31-08.04.41:377][265]Cmd: EDIT PASTE
+[2019.03.31-08.04.53:935][349]LogEditorViewport: Clicking on Actor (context menu): Wall_Corner_Preset_02_C (Wall_Corner_Preset_6)
+[2019.03.31-08.04.53:955][349]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-08.04.56:331][569]Cmd: ACTOR MIRROR X=-1
+[2019.03.31-08.05.00:165][960]Cmd: TRANSACTION UNDO
+[2019.03.31-08.05.00:165][960]LogEditorTransaction: Undo Move Actors
+[2019.03.31-08.05.01:289][ 69]LogEditorViewport: Clicking on Actor (context menu): Wall_01_C (Wall_73)
+[2019.03.31-08.05.01:309][ 69]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-08.05.04:423][336]Cmd: ACTOR MIRROR Y=-1
+[2019.03.31-08.05.06:208][536]LogEditorViewport: Clicking on Actor (context menu): Wall_Corner_Preset_02_C (Wall_Corner_Preset_7)
+[2019.03.31-08.05.06:227][536]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-08.05.08:244][710]Cmd: ACTOR MIRROR X=-1
+[2019.03.31-08.05.42:022][985]Cmd: EDIT COPY
+[2019.03.31-08.05.42:315][ 16]Cmd: EDIT PASTE
+[2019.03.31-08.05.52:988][ 35]LogEditorViewport: Clicking on Actor (LMB): Wall_Corner_Preset_02_C (Wall_Corner_Preset_7)
+[2019.03.31-08.06.04:585][156]LogEditorViewport: Clicking on Actor (LMB): Wall_Corner_Preset_02_C (Wall_Corner_Preset_9)
+[2019.03.31-08.06.09:343][605]LogEditorViewport: Clicking on Actor (context menu): Wall_Corner_Preset_02_C (Wall_Corner_Preset_9)
+[2019.03.31-08.06.09:363][605]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-08.06.12:194][853]Cmd: ACTOR MIRROR X=-1
+[2019.03.31-08.06.26:960][314]Cmd: EDIT COPY
+[2019.03.31-08.06.27:209][339]Cmd: EDIT PASTE
+[2019.03.31-08.06.29:217][536]LogEditorViewport: Clicking on Actor (context menu): Wall_Corner_Preset_02_C (Wall_Corner_Preset_10)
+[2019.03.31-08.06.29:239][536]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-08.06.31:631][741]Cmd: ACTOR MIRROR Y=-1
+[2019.03.31-08.07.06:090][145]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-08.07.08:168][356]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-08.07.16:632][240]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-08.07.19:953][549]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_88)
+[2019.03.31-08.07.20:644][617]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-08.07.29:045][513]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush3)
+[2019.03.31-08.07.30:268][639]LogEditorViewport: Clicking on Actor (LMB): Wall_01_C (Wall_81)
+[2019.03.31-08.07.37:668][407]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-08.07.52:999][857]Cmd: EDIT COPY
+[2019.03.31-08.07.53:288][881]Cmd: EDIT PASTE
+[2019.03.31-08.08.08:838][165]Cmd: EDIT COPY
+[2019.03.31-08.08.09:107][190]Cmd: EDIT PASTE
+[2019.03.31-08.08.21:132][397]Cmd: EDIT COPY
+[2019.03.31-08.08.21:396][420]Cmd: EDIT PASTE
+[2019.03.31-08.08.39:378][165]Cmd: EDIT COPY
+[2019.03.31-08.08.39:672][194]Cmd: EDIT PASTE
+[2019.03.31-08.08.45:281][731]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-08.08.49:006][123]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-08.09.01:101][306]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.03.31-08.09.04:910][692]LogEditorViewport: Clicking on Actor (LMB): Wall_01_C (Wall_81)
+[2019.03.31-08.09.10:403][237]Cmd: EDIT COPY
+[2019.03.31-08.09.10:688][264]Cmd: EDIT PASTE
+[2019.03.31-08.09.28:950][ 37]Cmd: TRANSACTION UNDO
+[2019.03.31-08.09.28:950][ 37]LogEditorTransaction: Undo Move Actors
+[2019.03.31-08.10.01:261][276]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-08.10.06:906][860]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-08.10.12:166][361]Cmd: DELETE
+[2019.03.31-08.10.12:166][361]Cmd: ACTOR DELETE
+[2019.03.31-08.10.12:230][361]LogEditorActor: Deleted Actor: Wall_Filler_01_C
+[2019.03.31-08.10.12:282][361]LogEditorActor: Deleted 1 Actors (0.115 secs)
+[2019.03.31-08.10.18:199][ 17]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-08.10.30:564][300]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-08.10.36:654][898]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-08.10.45:173][704]LogEditorViewport: Clicking on Actor (LMB): Wall_01_C (Wall_87)
+[2019.03.31-08.10.46:169][804]Cmd: DELETE
+[2019.03.31-08.10.46:169][804]Cmd: ACTOR DELETE
+[2019.03.31-08.10.46:233][804]LogEditorActor: Deleted Actor: Wall_01_C
+[2019.03.31-08.10.46:284][804]LogEditorActor: Deleted 1 Actors (0.115 secs)
+[2019.03.31-08.10.46:802][863]LogEditorViewport: Clicking on Actor (LMB): Wall_01_C (Wall_86)
+[2019.03.31-08.10.46:924][870]Cmd: DELETE
+[2019.03.31-08.10.46:924][870]Cmd: ACTOR DELETE
+[2019.03.31-08.10.46:987][870]LogEditorActor: Deleted Actor: Wall_01_C
+[2019.03.31-08.10.47:032][870]LogEditorActor: Deleted 1 Actors (0.108 secs)
+[2019.03.31-08.10.47:423][914]LogEditorViewport: Clicking on Actor (LMB): Wall_01_C (Wall_94)
+[2019.03.31-08.10.47:636][929]Cmd: DELETE
+[2019.03.31-08.10.47:636][929]Cmd: ACTOR DELETE
+[2019.03.31-08.10.47:685][929]LogEditorActor: Deleted Actor: Wall_01_C
+[2019.03.31-08.10.47:739][929]LogEditorActor: Deleted 1 Actors (0.103 secs)
+[2019.03.31-08.10.48:631][ 32]LogEditorViewport: Clicking on Actor (LMB): Wall_01_C (Wall_95)
+[2019.03.31-08.10.48:790][ 40]Cmd: DELETE
+[2019.03.31-08.10.48:790][ 40]Cmd: ACTOR DELETE
+[2019.03.31-08.10.48:836][ 40]LogEditorActor: Deleted Actor: Wall_01_C
+[2019.03.31-08.10.48:889][ 40]LogEditorActor: Deleted 1 Actors (0.098 secs)
+[2019.03.31-08.10.49:467][106]LogEditorViewport: Clicking on Actor (LMB): Wall_01_C (Wall_96)
+[2019.03.31-08.10.49:640][119]Cmd: DELETE
+[2019.03.31-08.10.49:640][119]Cmd: ACTOR DELETE
+[2019.03.31-08.10.49:693][119]LogEditorActor: Deleted Actor: Wall_01_C
+[2019.03.31-08.10.49:747][119]LogEditorActor: Deleted 1 Actors (0.106 secs)
+[2019.03.31-08.10.52:972][468]LogEditorViewport: Clicking on Actor (LMB): Wall_01_C (Wall_81)
+[2019.03.31-08.10.53:760][545]Cmd: DELETE
+[2019.03.31-08.10.53:760][545]Cmd: ACTOR DELETE
+[2019.03.31-08.10.53:807][545]LogEditorActor: Deleted Actor: Wall_01_C
+[2019.03.31-08.10.53:859][545]LogEditorActor: Deleted 1 Actors (0.099 secs)
+[2019.03.31-08.10.54:965][672]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-08.10.57:842][  4]LogEditorViewport: Clicking on Actor (LMB): Wall_Preset_01_C (Wall_Preset_32)
+[2019.03.31-08.11.22:439][622]LogEditorViewport: Clicking on Actor (LMB): Wall_Preset_01_C (Wall_Preset_32)
+[2019.03.31-08.11.32:168][674]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-08.11.36:165][ 69]LogEditorViewport: Clicking on Actor (LMB): Wall_01_C (Wall_82)
+[2019.03.31-08.11.36:965][125]Cmd: DELETE
+[2019.03.31-08.11.36:965][125]Cmd: ACTOR DELETE
+[2019.03.31-08.11.37:012][125]LogEditorActor: Deleted Actor: Wall_01_C
+[2019.03.31-08.11.37:057][125]LogEditorActor: Deleted 1 Actors (0.092 secs)
+[2019.03.31-08.11.37:416][166]LogEditorViewport: Clicking on Actor (LMB): Wall_01_C (Wall_83)
+[2019.03.31-08.11.37:502][169]Cmd: DELETE
+[2019.03.31-08.11.37:502][169]Cmd: ACTOR DELETE
+[2019.03.31-08.11.37:565][169]LogEditorActor: Deleted Actor: Wall_01_C
+[2019.03.31-08.11.37:609][169]LogEditorActor: Deleted 1 Actors (0.106 secs)
+[2019.03.31-08.11.37:943][207]LogEditorViewport: Clicking on Actor (LMB): Wall_01_C (Wall_84)
+[2019.03.31-08.11.38:017][210]Cmd: DELETE
+[2019.03.31-08.11.38:017][210]Cmd: ACTOR DELETE
+[2019.03.31-08.11.38:063][210]LogEditorActor: Deleted Actor: Wall_01_C
+[2019.03.31-08.11.38:111][210]LogEditorActor: Deleted 1 Actors (0.094 secs)
+[2019.03.31-08.11.38:860][295]LogEditorViewport: Clicking on Actor (LMB): Wall_01_C (Wall_85)
+[2019.03.31-08.11.39:104][315]Cmd: DELETE
+[2019.03.31-08.11.39:104][315]Cmd: ACTOR DELETE
+[2019.03.31-08.11.39:156][315]LogEditorActor: Deleted Actor: Wall_01_C
+[2019.03.31-08.11.39:206][315]LogEditorActor: Deleted 1 Actors (0.102 secs)
+[2019.03.31-08.11.39:842][387]LogEditorViewport: Clicking on Actor (LMB): Wall_Preset_01_C (Wall_Preset_32)
+[2019.03.31-08.11.42:047][610]Cmd: EDIT COPY
+[2019.03.31-08.11.42:324][639]Cmd: EDIT PASTE
+[2019.03.31-08.11.48:021][190]Cmd: EDIT COPY
+[2019.03.31-08.11.48:278][217]Cmd: EDIT PASTE
+[2019.03.31-08.11.54:154][803]Cmd: EDIT COPY
+[2019.03.31-08.11.54:393][828]Cmd: EDIT PASTE
+[2019.03.31-08.12.01:644][566]Cmd: EDIT COPY
+[2019.03.31-08.12.01:925][596]Cmd: EDIT PASTE
+[2019.03.31-08.12.04:707][887]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-08.12.08:460][284]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-08.12.16:380][ 36]LogEditorViewport: Clicking on Actor (LMB): Wall_Preset_01_C (Wall_Preset_32)
+[2019.03.31-08.12.23:664][770]LogEditorViewport: Clicking on Actor (context menu): Wall_Preset_01_C (Wall_Preset_34)
+[2019.03.31-08.12.23:685][770]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-08.12.26:278][ 17]Cmd: EDIT COPY
+[2019.03.31-08.12.26:540][ 44]Cmd: EDIT PASTE
+[2019.03.31-08.12.46:579][821]LogEditorViewport: Clicking on Actor (LMB): Wall_01_C (Wall_01)
+[2019.03.31-08.12.50:931][207]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.03.31-08.13.00:352][ 83]LogEditorViewport: Clicking on Actor (LMB): Wall_Corner_Preset_02_C (Wall_Corner_Preset_5)
+[2019.03.31-08.13.05:048][569]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-08.13.12:727][303]Cmd: DELETE
+[2019.03.31-08.13.12:728][303]Cmd: ACTOR DELETE
+[2019.03.31-08.13.12:805][303]LogEditorActor: Deleted Actor: Wall_01_C
+[2019.03.31-08.13.12:859][303]LogEditorActor: Deleted 1 Actors (0.131 secs)
+[2019.03.31-08.13.13:422][366]LogEditorViewport: Clicking on Actor (LMB): Wall_Corner_Preset_02_C (Wall_Corner_Preset_5)
+[2019.03.31-08.13.14:453][468]LogEditorViewport: Clicking on Actor (context menu): Wall_Corner_Preset_02_C (Wall_Corner_Preset_5)
+[2019.03.31-08.13.14:473][468]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-08.13.17:817][778]LogEditorViewport: Clicking on Actor (LMB): Wall_01_C (Wall_01)
+[2019.03.31-08.13.19:365][936]Cmd: EDIT COPY
+[2019.03.31-08.13.19:628][964]Cmd: EDIT PASTE
+[2019.03.31-08.13.28:042][776]Cmd: EDIT COPY
+[2019.03.31-08.13.28:299][799]Cmd: EDIT PASTE
+[2019.03.31-08.13.35:204][484]Cmd: EDIT COPY
+[2019.03.31-08.13.35:453][507]Cmd: EDIT PASTE
+[2019.03.31-08.13.42:087][173]Cmd: EDIT COPY
+[2019.03.31-08.13.42:319][196]Cmd: EDIT PASTE
+[2019.03.31-08.13.48:012][741]Cmd: EDIT COPY
+[2019.03.31-08.13.48:267][766]Cmd: EDIT PASTE
+[2019.03.31-08.13.57:200][667]LogEditorViewport: Clicking on Actor (LMB): Wall_01_C (Wall_01)
+[2019.03.31-08.14.07:512][668]LogEditorViewport: Clicking on Actor (context menu): Wall_01_C (Wall_2)
+[2019.03.31-08.14.07:533][668]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-08.14.15:617][422]LogEditorViewport: Clicking on Actor (LMB): Wall_Preset_01_C (Wall_Preset_39)
+[2019.03.31-08.14.26:502][535]LogEditorViewport: Clicking on Actor (LMB): Wall_Preset_01_C (Wall_Preset_37)
+[2019.03.31-08.14.30:422][954]Cmd: DELETE
+[2019.03.31-08.14.30:422][954]Cmd: ACTOR DELETE
+[2019.03.31-08.14.30:483][954]LogEditorActor: Deleted Actor: Wall_Preset_01_C
+[2019.03.31-08.14.30:483][954]LogEditorActor: Deleted Actor: Wall_Preset_01_C
+[2019.03.31-08.14.30:483][954]LogEditorActor: Deleted Actor: Wall_Preset_01_C
+[2019.03.31-08.14.30:483][954]LogEditorActor: Deleted Actor: Wall_Preset_01_C
+[2019.03.31-08.14.30:484][954]LogEditorActor: Deleted Actor: Wall_Preset_01_C
+[2019.03.31-08.14.30:528][954]LogEditorActor: Deleted 5 Actors (0.105 secs)
+[2019.03.31-08.14.32:784][215]LogEditorViewport: Clicking on Actor (LMB): Wall_01_C (Wall_81)
+[2019.03.31-08.14.40:669][ 18]Cmd: EDIT COPY
+[2019.03.31-08.14.40:955][ 46]Cmd: EDIT PASTE
+[2019.03.31-08.14.52:579][145]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.03.31-08.14.54:208][322]Cmd: TRANSACTION UNDO
+[2019.03.31-08.14.54:208][322]LogEditorTransaction: Undo Clicking on Actors
+[2019.03.31-08.14.55:027][388]Cmd: TRANSACTION UNDO
+[2019.03.31-08.14.55:028][388]LogEditorTransaction: Undo Move Actors
+[2019.03.31-08.14.56:616][547]Cmd: TRANSACTION UNDO
+[2019.03.31-08.14.56:617][547]LogEditorTransaction: Undo Move Actors
+[2019.03.31-08.15.01:649][  4]LogEditorViewport: Clicking on Actor (context menu): Wall_01_C (Wall_94)
+[2019.03.31-08.15.01:671][  4]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-08.15.29:952][776]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-08.15.31:087][787]LogSlate: Window 'Save Content' being destroyed
+[2019.03.31-08.15.31:096][787]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.31-08.15.32:766][787]LogSavePackage: Moving '../../../../../../Users/Mayra/Documents/Unreal Projects/MayraG_02/Saved/MG2E0633E5547F948E4DA02E2951C21291C.tmp' to '../../../../../../Users/Mayra/Documents/Unreal Projects/MayraG_02/Content/MayaG2/WorldMap/MG2.umap'
+[2019.03.31-08.15.32:829][787]LogFileHelpers: Saving map 'MG2' took 1.729
+[2019.03.31-08.15.33:910][891]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-08.15.35:336][904]LogSavePackage: Moving '../../../../../../Users/Mayra/Documents/Unreal Projects/MayraG_02/Saved/MG239275C5147C08F78DA2F6BB40F6C2836.tmp' to '../../../../../../Users/Mayra/Documents/Unreal Projects/MayraG_02/Content/MayaG2/WorldMap/MG2.umap'
+[2019.03.31-08.15.46:887][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.31-08.15.47:029][ 66]LogSlate: Window 'MayraG_02 - Unreal Editor' being destroyed
+[2019.03.31-08.15.47:148][ 67]Cmd: QUIT_EDITOR
+[2019.03.31-08.15.47:181][ 67]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.31-08.15.47:200][ 67]LogExit: Preparing to exit.
+[2019.03.31-08.15.47:511][ 67]LogExit: Editor shut down
+[2019.03.31-08.15.47:512][ 67]LogExit: Transaction tracking system shut down
+[2019.03.31-08.15.47:864][ 67]LogExit: Object subsystem successfully closed.
+[2019.03.31-08.15.47:898][ 67]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.03.31-08.15.47:904][ 67]LogD3D11RHI: Shutdown
+[2019.03.31-08.15.47:904][ 67]LogD3D11RHI: CleanupD3DDevice
+[2019.03.31-08.15.47:913][ 67]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.03.31-08.15.47:953][ 67]LogModuleManager: Shutting down and abandoning module TextureEditor (626)
+[2019.03.31-08.15.47:953][ 67]LogModuleManager: Shutting down and abandoning module MeshBuilder (624)
+[2019.03.31-08.15.47:953][ 67]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (622)
+[2019.03.31-08.15.47:953][ 67]LogModuleManager: Shutting down and abandoning module SceneOutliner (620)
+[2019.03.31-08.15.47:953][ 67]LogModuleManager: Shutting down and abandoning module AddContentDialog (618)
+[2019.03.31-08.15.47:953][ 67]LogModuleManager: Shutting down and abandoning module WidgetCarousel (617)
+[2019.03.31-08.15.47:953][ 67]LogModuleManager: Shutting down and abandoning module EditorWidgets (614)
+[2019.03.31-08.15.47:953][ 67]LogModuleManager: Shutting down and abandoning module CollectionManager (612)
+[2019.03.31-08.15.47:954][ 67]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2019.03.31-08.15.47:954][ 67]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2019.03.31-08.15.47:954][ 67]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2019.03.31-08.15.47:954][ 67]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2019.03.31-08.15.47:954][ 67]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2019.03.31-08.15.47:954][ 67]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2019.03.31-08.15.47:954][ 67]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2019.03.31-08.15.47:954][ 67]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2019.03.31-08.15.47:954][ 67]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2019.03.31-08.15.47:954][ 67]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2019.03.31-08.15.47:954][ 67]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2019.03.31-08.15.47:954][ 67]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2019.03.31-08.15.47:954][ 67]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2019.03.31-08.15.47:954][ 67]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2019.03.31-08.15.47:954][ 67]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2019.03.31-08.15.47:954][ 67]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2019.03.31-08.15.47:954][ 67]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2019.03.31-08.15.47:954][ 67]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2019.03.31-08.15.47:954][ 67]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2019.03.31-08.15.47:954][ 67]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2019.03.31-08.15.47:954][ 67]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2019.03.31-08.15.47:954][ 67]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2019.03.31-08.15.47:954][ 67]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2019.03.31-08.15.47:954][ 67]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2019.03.31-08.15.47:954][ 67]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2019.03.31-08.15.47:955][ 67]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2019.03.31-08.15.47:955][ 67]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2019.03.31-08.15.47:955][ 67]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2019.03.31-08.15.47:955][ 67]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2019.03.31-08.15.47:955][ 67]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2019.03.31-08.15.47:955][ 67]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2019.03.31-08.15.47:955][ 67]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2019.03.31-08.15.47:955][ 67]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2019.03.31-08.15.47:955][ 67]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2019.03.31-08.15.47:955][ 67]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2019.03.31-08.15.47:955][ 67]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2019.03.31-08.15.47:955][ 67]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2019.03.31-08.15.47:955][ 67]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2019.03.31-08.15.47:955][ 67]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2019.03.31-08.15.47:955][ 67]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2019.03.31-08.15.47:955][ 67]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2019.03.31-08.15.47:955][ 67]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2019.03.31-08.15.47:955][ 67]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2019.03.31-08.15.47:955][ 67]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2019.03.31-08.15.47:955][ 67]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2019.03.31-08.15.47:955][ 67]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2019.03.31-08.15.47:955][ 67]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2019.03.31-08.15.47:955][ 67]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2019.03.31-08.15.47:955][ 67]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2019.03.31-08.15.47:955][ 67]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2019.03.31-08.15.49:495][ 67]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2019.03.31-08.15.49:495][ 67]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2019.03.31-08.15.49:495][ 67]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2019.03.31-08.15.49:495][ 67]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2019.03.31-08.15.49:495][ 67]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2019.03.31-08.15.49:495][ 67]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2019.03.31-08.15.49:495][ 67]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2019.03.31-08.15.49:495][ 67]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2019.03.31-08.15.49:495][ 67]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2019.03.31-08.15.49:495][ 67]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2019.03.31-08.15.49:495][ 67]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2019.03.31-08.15.49:495][ 67]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2019.03.31-08.15.49:495][ 67]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2019.03.31-08.15.49:496][ 67]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2019.03.31-08.15.49:496][ 67]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2019.03.31-08.15.49:496][ 67]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2019.03.31-08.15.49:496][ 67]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2019.03.31-08.15.49:496][ 67]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2019.03.31-08.15.49:496][ 67]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2019.03.31-08.15.49:496][ 67]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2019.03.31-08.15.49:496][ 67]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2019.03.31-08.15.49:496][ 67]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2019.03.31-08.15.49:496][ 67]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2019.03.31-08.15.49:550][ 67]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2019.03.31-08.15.49:550][ 67]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2019.03.31-08.15.49:550][ 67]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2019.03.31-08.15.49:550][ 67]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2019.03.31-08.15.49:550][ 67]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2019.03.31-08.15.49:550][ 67]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2019.03.31-08.15.49:550][ 67]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2019.03.31-08.15.49:550][ 67]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2019.03.31-08.15.49:550][ 67]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2019.03.31-08.15.49:550][ 67]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2019.03.31-08.15.49:551][ 67]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2019.03.31-08.15.49:552][ 67]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2019.03.31-08.15.49:552][ 67]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2019.03.31-08.15.49:552][ 67]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2019.03.31-08.15.49:552][ 67]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2019.03.31-08.15.49:552][ 67]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2019.03.31-08.15.49:552][ 67]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2019.03.31-08.15.49:552][ 67]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2019.03.31-08.15.49:552][ 67]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2019.03.31-08.15.49:552][ 67]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2019.03.31-08.15.49:552][ 67]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2019.03.31-08.15.49:552][ 67]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2019.03.31-08.15.49:552][ 67]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2019.03.31-08.15.49:552][ 67]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2019.03.31-08.15.49:552][ 67]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2019.03.31-08.15.49:552][ 67]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2019.03.31-08.15.49:552][ 67]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2019.03.31-08.15.49:552][ 67]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2019.03.31-08.15.49:552][ 67]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2019.03.31-08.15.49:552][ 67]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2019.03.31-08.15.49:552][ 67]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2019.03.31-08.15.49:553][ 67]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2019.03.31-08.15.49:558][ 67]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.03.31-08.15.49:728][ 67]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.03.31-08.15.49:728][ 67]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.03.31-08.15.49:728][ 67]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.03.31-08.15.49:728][ 67]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.03.31-08.15.49:728][ 67]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.03.31-08.15.49:728][ 67]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.03.31-08.15.49:728][ 67]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.03.31-08.15.49:728][ 67]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.03.31-08.15.49:728][ 67]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.03.31-08.15.49:728][ 67]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.03.31-08.15.49:728][ 67]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.03.31-08.15.49:728][ 67]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.03.31-08.15.49:729][ 67]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.03.31-08.15.49:729][ 67]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.03.31-08.15.49:729][ 67]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2019.03.31-08.15.49:729][ 67]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2019.03.31-08.15.49:729][ 67]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2019.03.31-08.15.49:732][ 67]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.03.31-08.15.49:732][ 67]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.03.31-08.15.49:732][ 67]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.03.31-08.15.49:732][ 67]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.03.31-08.15.49:732][ 67]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.03.31-08.15.49:732][ 67]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.03.31-08.15.49:732][ 67]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.03.31-08.15.49:732][ 67]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.03.31-08.15.49:732][ 67]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.03.31-08.15.49:732][ 67]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.03.31-08.15.49:732][ 67]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.03.31-08.15.49:732][ 67]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.03.31-08.15.49:732][ 67]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.03.31-08.15.49:732][ 67]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.03.31-08.15.49:732][ 67]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.03.31-08.15.49:732][ 67]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.03.31-08.15.49:732][ 67]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.03.31-08.15.49:732][ 67]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.03.31-08.15.49:732][ 67]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.03.31-08.15.49:732][ 67]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.03.31-08.15.49:732][ 67]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.03.31-08.15.49:732][ 67]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.03.31-08.15.49:732][ 67]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.03.31-08.15.49:732][ 67]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.03.31-08.15.49:733][ 67]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.03.31-08.15.49:733][ 67]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.03.31-08.15.49:733][ 67]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.03.31-08.15.49:733][ 67]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.03.31-08.15.49:733][ 67]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.03.31-08.15.49:733][ 67]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.03.31-08.15.49:733][ 67]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.03.31-08.15.49:733][ 67]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.03.31-08.15.49:733][ 67]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.03.31-08.15.49:733][ 67]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.03.31-08.15.49:733][ 67]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2019.03.31-08.15.49:733][ 67]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2019.03.31-08.15.49:733][ 67]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2019.03.31-08.15.49:733][ 67]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2019.03.31-08.15.49:733][ 67]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2019.03.31-08.15.49:733][ 67]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.03.31-08.15.49:733][ 67]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.03.31-08.15.49:733][ 67]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.03.31-08.15.49:834][ 67]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.03.31-08.15.49:935][ 67]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.03.31-08.15.49:935][ 67]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.03.31-08.15.49:935][ 67]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.03.31-08.15.49:935][ 67]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.03.31-08.15.49:935][ 67]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.03.31-08.15.49:935][ 67]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.03.31-08.15.49:935][ 67]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.03.31-08.15.49:936][ 67]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.03.31-08.15.49:936][ 67]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.03.31-08.15.49:937][ 67]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.03.31-08.15.49:937][ 67]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.03.31-08.15.49:938][ 67]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.03.31-08.15.49:939][ 67]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.03.31-08.15.49:939][ 67]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.03.31-08.15.49:939][ 67]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.03.31-08.15.49:939][ 67]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.03.31-08.15.49:939][ 67]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.03.31-08.15.49:939][ 67]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.03.31-08.15.49:939][ 67]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.03.31-08.15.49:941][ 67]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.03.31-08.15.49:949][ 67]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.03.31-08.15.49:949][ 67]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.03.31-08.15.49:949][ 67]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.03.31-08.15.49:949][ 67]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.03.31-08.15.49:949][ 67]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.03.31-08.15.49:949][ 67]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.03.31-08.15.49:949][ 67]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.03.31-08.15.49:949][ 67]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.03.31-08.15.49:949][ 67]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.03.31-08.15.49:949][ 67]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.03.31-08.15.49:949][ 67]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.03.31-08.15.49:949][ 67]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.03.31-08.15.49:949][ 67]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.03.31-08.15.49:949][ 67]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.03.31-08.15.49:949][ 67]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.03.31-08.15.49:950][ 67]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.03.31-08.15.49:950][ 67]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.03.31-08.15.49:950][ 67]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.03.31-08.15.49:950][ 67]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.03.31-08.15.49:950][ 67]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.03.31-08.15.49:953][ 67]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.03.31-08.15.49:954][ 67]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.03.31-08.15.49:954][ 67]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.03.31-08.15.49:954][ 67]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.03.31-08.15.49:954][ 67]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.03.31-08.15.49:954][ 67]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.03.31-08.15.49:954][ 67]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.03.31-08.15.49:954][ 67]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.03.31-08.15.49:954][ 67]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.03.31-08.15.49:954][ 67]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.03.31-08.15.49:954][ 67]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.03.31-08.15.49:954][ 67]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.03.31-08.15.49:954][ 67]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.03.31-08.15.49:954][ 67]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.03.31-08.15.49:954][ 67]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.03.31-08.15.49:954][ 67]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.03.31-08.15.49:954][ 67]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.03.31-08.15.49:954][ 67]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.03.31-08.15.49:972][ 67]LogDerivedDataCache: Shutdown
+[2019.03.31-08.15.49:972][ 67]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.03.31-08.15.49:972][ 67]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.03.31-08.15.49:972][ 67]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.03.31-08.15.49:972][ 67]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.03.31-08.15.49:972][ 67]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.03.31-08.15.49:972][ 67]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.03.31-08.15.49:972][ 67]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.03.31-08.15.49:972][ 67]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.03.31-08.15.49:972][ 67]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.03.31-08.15.49:972][ 67]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.03.31-08.15.49:972][ 67]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.03.31-08.15.49:972][ 67]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.03.31-08.15.49:973][ 67]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.03.31-08.15.49:973][ 67]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.03.31-08.15.49:973][ 67]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.03.31-08.15.49:973][ 67]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.03.31-08.15.49:973][ 67]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.03.31-08.15.49:973][ 67]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.03.31-08.15.49:974][ 67]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.03.31-08.15.49:974][ 67]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.03.31-08.15.49:974][ 67]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.03.31-08.15.49:974][ 67]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.03.31-08.15.49:974][ 67]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.03.31-08.15.49:975][ 67]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.03.31-08.15.49:975][ 67]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.03.31-08.15.49:976][ 67]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.03.31-08.15.49:976][ 67]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.03.31-08.15.49:985][ 67]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.03.31-08.15.49:985][ 67]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.03.31-08.15.49:985][ 67]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.03.31-08.15.49:985][ 67]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.03.31-08.15.49:985][ 67]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.03.31-08.15.49:985][ 67]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.03.31-08.15.49:985][ 67]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.03.31-08.15.49:985][ 67]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.03.31-08.15.49:985][ 67]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.03.31-08.15.49:985][ 67]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.03.31-08.15.49:985][ 67]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.03.31-08.15.49:985][ 67]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.03.31-08.15.49:985][ 67]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.03.31-08.15.49:985][ 67]LogHMD: Freeing OpenVRDLLHandle.
+[2019.03.31-08.15.49:985][ 67]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.03.31-08.15.49:985][ 67]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.03.31-08.15.49:985][ 67]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.03.31-08.15.49:986][ 67]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.03.31-08.15.49:986][ 67]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.03.31-08.15.49:987][ 67]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.03.31-08.15.49:987][ 67]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.03.31-08.15.49:989][ 67]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.03.31-08.15.49:989][ 67]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.03.31-08.15.49:989][ 67]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B21A0F446-413D-BC93-5A2E-6CB8845636AE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=ef1174be4215444ac77fad9c4e67485e%7C2bc404661d1d4de28cdcc26e3d13da26%7C3fd0b65c-8b47-446e-a418-4726f718d90a&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.03.31-08.15.50:024][ 67]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.03.31-08.15.50:027][ 67]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.03.31-08.15.50:027][ 67]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.03.31-08.15.50:027][ 67]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.03.31-08.15.50:027][ 67]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.03.31-08.15.50:027][ 67]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.03.31-08.15.50:027][ 67]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.03.31-08.15.50:027][ 67]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.03.31-08.15.50:028][ 67]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.03.31-08.15.50:028][ 67]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.03.31-08.15.50:028][ 67]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.03.31-08.15.50:029][ 67]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.03.31-08.15.50:029][ 67]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.03.31-08.15.50:029][ 67]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.03.31-08.15.50:029][ 67]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.03.31-08.15.50:029][ 67]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.03.31-08.15.50:029][ 67]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.03.31-08.15.50:029][ 67]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.03.31-08.15.50:030][ 67]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.03.31-08.15.50:030][ 67]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.03.31-08.15.50:030][ 67]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.03.31-08.15.50:030][ 67]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.03.31-08.15.50:030][ 67]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.03.31-08.15.50:030][ 67]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.03.31-08.15.50:030][ 67]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.03.31-08.15.50:030][ 67]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.03.31-08.15.50:030][ 67]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.03.31-08.15.50:030][ 67]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.03.31-08.15.50:030][ 67]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.03.31-08.15.50:051][ 67]LogExit: Exiting.
+[2019.03.31-08.15.50:059][ 67]Log file closed, 03/31/19 03:15:50
