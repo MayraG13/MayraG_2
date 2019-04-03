@@ -1839,3 +1839,417 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.04.03-06.32.32:275][ 48]LogFileHelpers: Saving map 'MG2' took 2.072
 [2019.04.03-06.32.32:916][110]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.04.03-06.32.34:935][121]LogSavePackage: Moving '../../../../../../Users/Mayra/Documents/Unreal Projects/MayraG_02/Saved/MG2C4D82F294D7AD6063D90AAB797989A75.tmp' to '../../../../../../Users/Mayra/Documents/Unreal Projects/MayraG_02/Content/MayaG2/WorldMap/MG2.umap'
+[2019.04.03-06.34.25:552][764]LogEditorViewport: Clicking on Actor (LMB): Torch_02_C (Torch_24)
+[2019.04.03-06.34.32:412][322]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-06.34.46:490][736]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-06.34.46:623][747]LogActorFactory: Actor Factory created Ceiling_01
+[2019.04.03-06.34.47:759][831]LogActorFactory: Actor Factory created Ceiling_01
+[2019.04.03-06.35.02:000][113]Cmd: DELETE
+[2019.04.03-06.35.02:000][113]Cmd: ACTOR DELETE
+[2019.04.03-06.35.02:068][113]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.04.03-06.35.02:109][113]LogEditorActor: Deleted 1 Actors (0.108 secs)
+[2019.04.03-06.35.12:500][252]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-06.35.12:747][280]LogActorFactory: Actor Factory created SM_Ceiling_Flat_01
+[2019.04.03-06.35.13:249][315]LogActorFactory: Actor Factory created SM_Ceiling_Flat_01
+[2019.04.03-06.35.35:837][273]Cmd: EDIT COPY
+[2019.04.03-06.35.36:134][295]Cmd: EDIT PASTE
+[2019.04.03-06.35.41:265][779]Cmd: EDIT COPY
+[2019.04.03-06.35.41:494][801]Cmd: EDIT PASTE
+[2019.04.03-06.35.47:035][306]Cmd: EDIT COPY
+[2019.04.03-06.35.47:318][333]Cmd: EDIT PASTE
+[2019.04.03-06.35.56:098][ 74]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-06.37.14:513][ 15]LogActorFactory: Actor Factory created Arch_Alley_01
+[2019.04.03-06.37.15:243][ 74]LogActorFactory: Actor Factory created Arch_Alley_01
+[2019.04.03-06.37.20:897][548]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-06.37.25:806][941]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-06.39.28:340][665]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-06.39.56:525][849]Cmd: EDIT COPY
+[2019.04.03-06.39.56:798][877]Cmd: EDIT PASTE
+[2019.04.03-06.40.01:046][289]Cmd: TRANSACTION UNDO
+[2019.04.03-06.40.01:046][289]LogEditorTransaction: Undo Move Actors
+[2019.04.03-06.40.01:661][341]Cmd: TRANSACTION UNDO
+[2019.04.03-06.40.01:661][341]LogEditorTransaction: Undo Paste
+[2019.04.03-06.40.03:075][473]Cmd: TRANSACTION UNDO
+[2019.04.03-06.40.03:075][473]LogEditorTransaction: Undo Move Actors
+[2019.04.03-06.40.26:384][564]Cmd: EDIT COPY
+[2019.04.03-06.40.26:632][581]Cmd: EDIT PASTE
+[2019.04.03-06.40.34:426][326]Cmd: EDIT COPY
+[2019.04.03-06.40.34:689][349]Cmd: EDIT PASTE
+[2019.04.03-06.41.12:907][770]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Arch_Alley_01)
+[2019.04.03-06.41.14:167][887]Cmd: EDIT COPY
+[2019.04.03-06.41.14:420][909]Cmd: EDIT PASTE
+[2019.04.03-06.41.27:142][130]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Ceiling_Flat_20)
+[2019.04.03-06.41.28:027][200]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Arch_Alley_01)
+[2019.04.03-06.42.35:646][ 70]LogSavePackage: Moving '../../../../../../Users/Mayra/Documents/Unreal Projects/MayraG_02/Saved/MG2_Auto9C1BF2C3C4BAEB22E331EC9A0903116B7.tmp' to '../../../../../../Users/Mayra/Documents/Unreal Projects/MayraG_02/Saved/Autosaves/Game/MayaG2/WorldMap/MG2_Auto9.umap'
+[2019.04.03-06.42.35:652][ 70]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MayaG2/WorldMap/MG2' took 2.238
+[2019.04.03-06.42.35:652][ 70]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.238
+[2019.04.03-06.43.05:229][160]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-06.43.53:597][594]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-06.57.45:494][693]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-06.57.47:897][764]LogSlate: Window 'Save Content' being destroyed
+[2019.04.03-06.57.49:874][764]LogSavePackage: Moving '../../../../../../Users/Mayra/Documents/Unreal Projects/MayraG_02/Saved/MG24D70D54C41DCA11309C1999821E2F5BE.tmp' to '../../../../../../Users/Mayra/Documents/Unreal Projects/MayraG_02/Content/MayaG2/WorldMap/MG2.umap'
+[2019.04.03-06.57.49:937][764]LogFileHelpers: Saving map 'MG2' took 2.025
+[2019.04.03-06.57.52:822][851]LogSavePackage: Moving '../../../../../../Users/Mayra/Documents/Unreal Projects/MayraG_02/Saved/MG2D9E1DF5D4921EC40A304C8BDA68BAB9F.tmp' to '../../../../../../Users/Mayra/Documents/Unreal Projects/MayraG_02/Content/MayaG2/WorldMap/MG2.umap'
+[2019.04.03-07.07.33:776][859]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-07.08.01:909][437]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Ceiling_Flat_19)
+[2019.04.03-07.08.05:608][820]Cmd: TRANSACTION UNDO
+[2019.04.03-07.08.05:609][820]LogEditorTransaction: Undo Clicking on Actors
+[2019.04.03-07.08.59:185][852]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-07.09.11:164][928]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-07.09.13:679][146]LogEditorViewport: Clicking on Actor (LMB): Pedestal_02_C (Pedestal_02)
+[2019.04.03-07.09.14:678][243]Cmd: DELETE
+[2019.04.03-07.09.14:678][243]Cmd: ACTOR DELETE
+[2019.04.03-07.09.14:748][243]LogEditorActor: Deleted Actor: Pedestal_02_C
+[2019.04.03-07.09.14:796][243]LogEditorActor: Deleted 1 Actors (0.118 secs)
+[2019.04.03-07.09.15:309][301]LogEditorViewport: Clicking on Actor (LMB): Pedestal_01_C (Pedestal_01)
+[2019.04.03-07.09.16:815][445]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-07.09.23:054][ 17]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-07.10.00:522][875]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-07.10.07:393][487]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-07.10.09:452][487]LogSavePackage: Moving '../../../../../../Users/Mayra/Documents/Unreal Projects/MayraG_02/Saved/MG2_Auto037DFA88B45E1DF1F0C0C7AB19EC8C700.tmp' to '../../../../../../Users/Mayra/Documents/Unreal Projects/MayraG_02/Saved/Autosaves/Game/MayaG2/WorldMap/MG2_Auto0.umap'
+[2019.04.03-07.10.09:457][487]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MayaG2/WorldMap/MG2' took 2.009
+[2019.04.03-07.10.09:457][487]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.009
+[2019.04.03-07.11.09:056][309]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-07.11.10:928][501]Cmd: EDIT COPY
+[2019.04.03-07.11.11:221][528]Cmd: EDIT PASTE
+[2019.04.03-07.11.16:852][104]Cmd: EDIT COPY
+[2019.04.03-07.11.17:130][132]Cmd: EDIT PASTE
+[2019.04.03-07.11.31:685][465]LogEditorViewport: Clicking on Actor (LMB): Pedestal_01_C (Pedestal_2)
+[2019.04.03-07.11.32:830][558]Cmd: DELETE
+[2019.04.03-07.11.32:830][558]Cmd: ACTOR DELETE
+[2019.04.03-07.11.32:904][558]LogEditorActor: Deleted Actor: Pedestal_01_C
+[2019.04.03-07.11.32:948][558]LogEditorActor: Deleted 1 Actors (0.118 secs)
+[2019.04.03-07.11.33:325][583]LogEditorViewport: Clicking on Actor (LMB): Pedestal_01_C (Pedestal_01)
+[2019.04.03-07.11.33:448][587]Cmd: DELETE
+[2019.04.03-07.11.33:448][587]Cmd: ACTOR DELETE
+[2019.04.03-07.11.33:507][587]LogEditorActor: Deleted Actor: Pedestal_01_C
+[2019.04.03-07.11.33:552][587]LogEditorActor: Deleted 1 Actors (0.103 secs)
+[2019.04.03-07.11.36:228][815]LogEditorViewport: Clicking on Actor (LMB): Pedestal_01_C (Pedestal_3)
+[2019.04.03-07.11.36:977][880]Cmd: DELETE
+[2019.04.03-07.11.36:977][880]Cmd: ACTOR DELETE
+[2019.04.03-07.11.37:035][880]LogEditorActor: Deleted Actor: Pedestal_01_C
+[2019.04.03-07.11.37:085][880]LogEditorActor: Deleted 1 Actors (0.108 secs)
+[2019.04.03-07.11.44:252][622]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-07.11.47:095][924]Cmd: TRANSACTION UNDO
+[2019.04.03-07.11.47:095][924]LogEditorTransaction: Undo Delete Actors
+[2019.04.03-07.11.50:082][208]Cmd: DELETE
+[2019.04.03-07.11.50:082][208]Cmd: ACTOR DELETE
+[2019.04.03-07.11.50:140][208]LogEditorActor: Deleted Actor: Pedestal_01_C
+[2019.04.03-07.11.50:181][208]LogEditorActor: Deleted 1 Actors (0.099 secs)
+[2019.04.03-07.11.51:015][304]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-07.11.55:622][683]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-07.12.03:854][410]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-07.12.17:125][600]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-07.12.26:811][490]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-07.12.34:969][348]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-07.12.41:541][913]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-07.12.42:721][ 37]Cmd: EDIT COPY
+[2019.04.03-07.12.42:985][ 62]Cmd: EDIT PASTE
+[2019.04.03-07.12.51:078][799]Cmd: EDIT COPY
+[2019.04.03-07.12.51:346][823]Cmd: EDIT PASTE
+[2019.04.03-07.13.11:214][646]LogEditorViewport: Clicking on Actor (LMB): Pedestal_02_C (Pedestal_3)
+[2019.04.03-07.14.18:866][752]LogEditorViewport: Clicking on Actor (LMB): Pedestal_02_C (Pedestal_02)
+[2019.04.03-07.14.22:306][ 10]Cmd: EDIT COPY
+[2019.04.03-07.14.22:561][ 33]Cmd: EDIT PASTE
+[2019.04.03-07.15.42:550][793]LogEditorViewport: Clicking on Actor (LMB): Railing_01_C (Railing_8)
+[2019.04.03-07.15.46:564][166]LogEditorViewport: Clicking on Actor (LMB): Railing_01_C (Railing_6)
+[2019.04.03-07.15.47:780][285]Cmd: EDIT COPY
+[2019.04.03-07.15.48:086][317]Cmd: EDIT PASTE
+[2019.04.03-07.15.50:719][585]LogEditorViewport: Clicking on Actor (LMB): Wall_01_C (Wall_117)
+[2019.04.03-07.15.52:731][793]Cmd: TRANSACTION UNDO
+[2019.04.03-07.15.52:731][793]LogEditorTransaction: Undo Clicking on Actors
+[2019.04.03-07.15.54:350][937]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-07.15.59:380][452]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-07.16.21:204][446]Cmd: EDIT COPY
+[2019.04.03-07.16.21:463][471]Cmd: EDIT PASTE
+[2019.04.03-07.16.33:958][642]Cmd: EDIT COPY
+[2019.04.03-07.16.34:215][667]Cmd: EDIT PASTE
+[2019.04.03-07.18.29:056][231]LogEditorViewport: Clicking on Actor (LMB): Candlestick_Floor_01_C (Candlestick_Floor_01)
+[2019.04.03-07.18.56:781][748]LogEditorViewport: Clicking on Actor (LMB): Wall_Corner_Preset_02_C (Wall_Corner_Preset_15)
+[2019.04.03-07.18.58:956][964]Cmd: DELETE
+[2019.04.03-07.18.58:956][964]Cmd: ACTOR DELETE
+[2019.04.03-07.18.59:051][964]LogEditorActor: Deleted Actor: Wall_Corner_Preset_02_C
+[2019.04.03-07.18.59:099][964]LogEditorActor: Deleted 1 Actors (0.141 secs)
+[2019.04.03-07.19.04:191][514]LogEditorViewport: Clicking on Actor (LMB): Wall_Preset_03_C (Wall_Preset_03)
+[2019.04.03-07.19.05:839][672]Cmd: EDIT COPY
+[2019.04.03-07.19.06:076][696]Cmd: EDIT PASTE
+[2019.04.03-07.19.26:979][527]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-07.19.35:202][269]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-07.20.24:361][708]LogSavePackage: Moving '../../../../../../Users/Mayra/Documents/Unreal Projects/MayraG_02/Saved/MG2_Auto135749C3141768BB5096CF394551A9C81.tmp' to '../../../../../../Users/Mayra/Documents/Unreal Projects/MayraG_02/Saved/Autosaves/Game/MayaG2/WorldMap/MG2_Auto1.umap'
+[2019.04.03-07.20.24:366][708]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MayaG2/WorldMap/MG2' took 2.206
+[2019.04.03-07.20.24:367][708]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.206
+[2019.04.03-07.20.57:844][126]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-07.21.12:943][301]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.04.03-07.21.14:171][392]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-07.30.26:721][492]LogSavePackage: Moving '../../../../../../Users/Mayra/Documents/Unreal Projects/MayraG_02/Saved/MG2_Auto2EB07C9E74846202D0CF0E9B9EC45F012.tmp' to '../../../../../../Users/Mayra/Documents/Unreal Projects/MayraG_02/Saved/Autosaves/Game/MayaG2/WorldMap/MG2_Auto2.umap'
+[2019.04.03-07.30.26:728][492]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MayaG2/WorldMap/MG2' took 2.128
+[2019.04.03-07.30.26:728][492]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.128
+[2019.04.03-07.38.51:135][148]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-07.39.05:118][143]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-07.39.46:193][724]Cmd: TRANSACTION UNDO
+[2019.04.03-07.39.46:193][724]LogEditorTransaction: Undo Move Actors
+[2019.04.03-07.40.50:826][141]LogSavePackage: Moving '../../../../../../Users/Mayra/Documents/Unreal Projects/MayraG_02/Saved/MG2_Auto3E3EF293E4B9F79FCB0A36AA6081F7FAE.tmp' to '../../../../../../Users/Mayra/Documents/Unreal Projects/MayraG_02/Saved/Autosaves/Game/MayaG2/WorldMap/MG2_Auto3.umap'
+[2019.04.03-07.40.50:833][141]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MayaG2/WorldMap/MG2' took 2.108
+[2019.04.03-07.40.50:833][141]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.108
+[2019.04.03-07.42.05:545][980]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.04.03-07.42.06:802][106]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-07.42.54:793][480]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight6)
+[2019.04.03-07.42.56:153][623]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-07.44.16:879][633]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-07.44.24:835][366]LogEditorViewport: Clicking on Actor (LMB): Candlestick_Floor_01_C (Candlestick_Floor_2)
+[2019.04.03-07.45.04:646][883]LogEditorViewport: Clicking on Actor (LMB): Candlestick_Floor_01_C (Candlestick_Floor_12)
+[2019.04.03-07.45.21:159][323]LogEditorViewport: Clicking on Actor (LMB): Cupboard_Preset_01_C (Cupboard_Preset_2)
+[2019.04.03-07.45.24:398][600]LogEditorViewport: Clicking on Actor (LMB): Cupboard_Preset_05_C (Cupboard_Preset_05)
+[2019.04.03-07.45.27:625][910]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Column_High_44)
+[2019.04.03-07.45.58:978][466]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-07.46.27:807][405]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-07.46.56:651][918]Cmd: DELETE
+[2019.04.03-07.46.56:651][918]Cmd: ACTOR DELETE
+[2019.04.03-07.46.56:721][918]LogEditorActor: Deleted Actor: Column_02_C
+[2019.04.03-07.46.56:776][918]LogEditorActor: Deleted 1 Actors (0.125 secs)
+[2019.04.03-07.47.04:913][854]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-07.48.42:287][ 98]LogEditorViewport: Clicking on Actor (LMB): Torch_02_C (Torch_27)
+[2019.04.03-07.48.44:954][299]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ceiling_25)
+[2019.04.03-07.48.46:020][405]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Ceiling_25)
+[2019.04.03-07.48.46:055][405]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-07.48.52:757][ 18]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Column_High_37)
+[2019.04.03-07.48.54:356][177]Cmd: EDIT COPY
+[2019.04.03-07.48.54:600][200]Cmd: EDIT PASTE
+[2019.04.03-07.48.59:356][629]Cmd: TRANSACTION UNDO
+[2019.04.03-07.48.59:356][629]LogEditorTransaction: Undo Move Actors
+[2019.04.03-07.49.12:402][903]Cmd: EDIT COPY
+[2019.04.03-07.49.12:653][926]Cmd: EDIT PASTE
+[2019.04.03-07.49.37:203][176]Cmd: EDIT COPY
+[2019.04.03-07.49.37:436][199]Cmd: EDIT PASTE
+[2019.04.03-07.50.05:051][401]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Column_High_102)
+[2019.04.03-07.50.05:072][401]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-07.50.07:794][520]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Column_High_102)
+[2019.04.03-07.50.07:827][520]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-07.50.09:866][674]Cmd: ACTOR MIRROR Y=-1
+[2019.04.03-07.51.19:466][547]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_71)
+[2019.04.03-07.51.27:800][251]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_70)
+[2019.04.03-07.51.30:663][537]LogEditorViewport: Clicking on Actor (LMB): Wall_Corner_Preset_02_C (Wall_Corner_Preset_11)
+[2019.04.03-07.51.32:650][708]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_71)
+[2019.04.03-07.51.47:854][116]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-07.51.55:703][918]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-07.51.57:215][ 62]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.04.03-07.52.05:941][802]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-07.52.41:015][994]LogActorFactory: Actor Factory created Wall_Upper_Decor_02
+[2019.04.03-07.52.41:747][ 41]LogActorFactory: Actor Factory created Wall_Upper_Decor_02
+[2019.04.03-07.52.44:852][262]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-07.52.53:116][927]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-07.53.17:861][844]Cmd: EDIT COPY
+[2019.04.03-07.53.18:099][866]Cmd: EDIT PASTE
+[2019.04.03-07.53.29:765][893]Cmd: EDIT COPY
+[2019.04.03-07.53.29:979][910]Cmd: EDIT PASTE
+[2019.04.03-07.53.35:370][390]Cmd: EDIT COPY
+[2019.04.03-07.53.35:596][410]Cmd: EDIT PASTE
+[2019.04.03-07.53.41:977][927]Cmd: EDIT COPY
+[2019.04.03-07.53.42:209][941]Cmd: EDIT PASTE
+[2019.04.03-07.53.57:574][151]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Upper_Decor_4)
+[2019.04.03-07.53.58:731][254]Cmd: EDIT COPY
+[2019.04.03-07.53.59:000][277]Cmd: EDIT PASTE
+[2019.04.03-07.54.13:327][426]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Upper_Decor_4)
+[2019.04.03-07.54.15:508][611]Cmd: EDIT COPY
+[2019.04.03-07.54.15:863][641]Cmd: EDIT PASTE
+[2019.04.03-07.54.21:322][ 66]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-07.54.27:003][600]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-07.55.12:844][427]Cmd: EDIT COPY
+[2019.04.03-07.55.13:094][449]Cmd: EDIT PASTE
+[2019.04.03-07.55.26:135][518]Cmd: EDIT COPY
+[2019.04.03-07.55.26:424][544]Cmd: EDIT PASTE
+[2019.04.03-07.55.33:677][180]Cmd: EDIT COPY
+[2019.04.03-07.55.33:946][203]Cmd: EDIT PASTE
+[2019.04.03-07.56.06:059][693]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-07.56.08:085][693]LogSavePackage: Moving '../../../../../../Users/Mayra/Documents/Unreal Projects/MayraG_02/Saved/MG2_Auto4E3F7603640FDBB1888ABD39A2F34077A.tmp' to '../../../../../../Users/Mayra/Documents/Unreal Projects/MayraG_02/Saved/Autosaves/Game/MayaG2/WorldMap/MG2_Auto4.umap'
+[2019.04.03-07.56.08:092][693]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MayaG2/WorldMap/MG2' took 1.861
+[2019.04.03-07.56.08:092][693]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.861
+[2019.04.03-07.56.16:379][471]Cmd: EDIT COPY
+[2019.04.03-07.56.23:101][130]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Upper_Decor_18)
+[2019.04.03-07.56.25:727][369]Cmd: EDIT COPY
+[2019.04.03-07.56.26:005][393]Cmd: EDIT PASTE
+[2019.04.03-07.56.36:360][251]Cmd: EDIT COPY
+[2019.04.03-07.56.36:611][272]Cmd: EDIT PASTE
+[2019.04.03-08.02.36:025][763]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-08.03.27:077][569]Cmd: EDIT COPY
+[2019.04.03-08.03.27:361][594]Cmd: EDIT PASTE
+[2019.04.03-08.03.47:617][237]Cmd: TRANSACTION UNDO
+[2019.04.03-08.03.47:617][237]LogEditorTransaction: Undo Move Actors
+[2019.04.03-08.03.50:524][494]Cmd: TRANSACTION UNDO
+[2019.04.03-08.03.50:524][494]LogEditorTransaction: Undo Move Actors
+[2019.04.03-08.06.10:334][412]LogSavePackage: Moving '../../../../../../Users/Mayra/Documents/Unreal Projects/MayraG_02/Saved/MG2_Auto5C73E1E074861AB1CF15521907962AF6F.tmp' to '../../../../../../Users/Mayra/Documents/Unreal Projects/MayraG_02/Saved/Autosaves/Game/MayaG2/WorldMap/MG2_Auto5.umap'
+[2019.04.03-08.06.10:341][412]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MayaG2/WorldMap/MG2' took 2.021
+[2019.04.03-08.06.10:341][412]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.021
+[2019.04.03-08.07.15:207][607]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-08.07.52:225][789]Cmd: EDIT COPY
+[2019.04.03-08.07.52:509][812]Cmd: EDIT PASTE
+[2019.04.03-08.08.16:827][789]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-08.08.23:899][432]Cmd: TRANSACTION UNDO
+[2019.04.03-08.08.23:899][432]LogEditorTransaction: Undo Move Actors
+[2019.04.03-08.08.26:000][625]Cmd: EDIT COPY
+[2019.04.03-08.08.26:687][687]Cmd: EDIT PASTE
+[2019.04.03-08.08.28:990][891]Cmd: TRANSACTION UNDO
+[2019.04.03-08.08.28:990][891]LogEditorTransaction: Undo Paste
+[2019.04.03-08.08.32:328][191]Cmd: EDIT PASTE
+[2019.04.03-08.09.40:856][911]Cmd: TRANSACTION UNDO
+[2019.04.03-08.09.40:856][911]LogEditorTransaction: Undo Move Actors
+[2019.04.03-08.09.42:245][ 38]Cmd: TRANSACTION UNDO
+[2019.04.03-08.09.42:245][ 38]LogEditorTransaction: Undo Move Actors
+[2019.04.03-08.09.42:906][102]Cmd: TRANSACTION UNDO
+[2019.04.03-08.09.42:906][102]LogEditorTransaction: Undo Move Actors
+[2019.04.03-08.10.07:598][346]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Upper_Decor_02)
+[2019.04.03-08.10.22:106][571]Cmd: TRANSACTION UNDO
+[2019.04.03-08.10.22:106][571]LogEditorTransaction: Undo Clicking on Actors
+[2019.04.03-08.10.24:941][829]Cmd: TRANSACTION UNDO
+[2019.04.03-08.10.24:941][829]LogEditorTransaction: Undo Clicking on Actors
+[2019.04.03-08.10.26:135][943]Cmd: EDIT COPY
+[2019.04.03-08.10.26:431][970]Cmd: EDIT PASTE
+[2019.04.03-08.11.02:416][ 69]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-08.11.05:993][420]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-08.11.09:733][759]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.04.03-08.11.18:325][446]LogEditorViewport: Clicking on Actor (LMB): Wall_01_C (Wall_148)
+[2019.04.03-08.11.31:463][578]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-08.11.31:581][584]LogActorFactory: Actor Factory created SM_Archway_08
+[2019.04.03-08.11.32:324][638]LogActorFactory: Actor Factory created SM_Archway_08
+[2019.04.03-08.11.36:210][948]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-08.11.42:252][476]Cmd: DELETE
+[2019.04.03-08.11.42:252][476]Cmd: ACTOR DELETE
+[2019.04.03-08.11.42:314][476]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.04.03-08.11.42:369][476]LogEditorActor: Deleted 1 Actors (0.117 secs)
+[2019.04.03-08.11.56:323][958]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-08.11.56:428][969]LogActorFactory: Actor Factory created Wall_Arch_Preset_03
+[2019.04.03-08.11.57:093][ 28]LogActorFactory: Actor Factory created Wall_Arch_Preset_03
+[2019.04.03-08.12.03:554][613]Cmd: DELETE
+[2019.04.03-08.12.03:554][613]Cmd: ACTOR DELETE
+[2019.04.03-08.12.03:642][613]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.04.03-08.12.03:684][613]LogEditorActor: Deleted 1 Actors (0.130 secs)
+[2019.04.03-08.12.05:245][768]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-08.12.12:734][562]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-08.12.18:450][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-08.12.25:847][799]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-08.12.43:108][314]LogEditorViewport: Clicking on Actor (LMB): Wall_01_C (Wall_148)
+[2019.04.03-08.12.44:178][418]Cmd: DELETE
+[2019.04.03-08.12.44:178][418]Cmd: ACTOR DELETE
+[2019.04.03-08.12.44:248][418]LogEditorActor: Deleted Actor: Wall_01_C
+[2019.04.03-08.12.44:295][418]LogEditorActor: Deleted 1 Actors (0.117 secs)
+[2019.04.03-08.12.50:674][ 88]LogEditorViewport: Clicking on Actor (LMB): Wall_01_C (Wall_145)
+[2019.04.03-08.12.54:583][467]Cmd: EDIT COPY
+[2019.04.03-08.12.54:878][496]Cmd: EDIT PASTE
+[2019.04.03-08.13.09:376][814]LogEditorViewport: Clicking on Actor (LMB): Wall_Window_01_C (Wall_Window_01)
+[2019.04.03-08.13.10:997][973]Cmd: EDIT COPY
+[2019.04.03-08.13.11:280][999]Cmd: EDIT PASTE
+[2019.04.03-08.13.20:973][855]LogEditorViewport: Clicking on Actor (LMB): Wall_Window_01_C (Wall_Window_01)
+[2019.04.03-08.13.21:557][905]LogEditorViewport: Clicking on Actor (context menu): Wall_Window_01_C (Wall_Window_01)
+[2019.04.03-08.13.21:581][905]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-08.13.23:627][ 59]Cmd: ACTOR MIRROR Y=-1
+[2019.04.03-08.13.24:973][204]Cmd: TRANSACTION UNDO
+[2019.04.03-08.13.24:973][204]LogEditorTransaction: Undo Mirroring Actors
+[2019.04.03-08.13.28:423][494]LogEditorViewport: Clicking on Actor (context menu): Wall_Window_01_C (Wall_Window_01)
+[2019.04.03-08.13.28:447][494]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-08.13.31:836][742]Cmd: ACTOR MIRROR X=-1
+[2019.04.03-08.13.47:573][166]LogEditorViewport: Clicking on Actor (LMB): Wall_Window_01_C (Wall_Window_2)
+[2019.04.03-08.13.53:151][616]LogEditorViewport: Clicking on Actor (LMB): Wall_01_C (Wall_121)
+[2019.04.03-08.13.54:667][765]Cmd: DELETE
+[2019.04.03-08.13.54:667][765]Cmd: ACTOR DELETE
+[2019.04.03-08.13.54:728][765]LogEditorActor: Deleted Actor: Wall_01_C
+[2019.04.03-08.13.54:774][765]LogEditorActor: Deleted 1 Actors (0.107 secs)
+[2019.04.03-08.14.01:096][379]LogEditorViewport: Clicking on Actor (LMB): Wall_01_C (Wall_120)
+[2019.04.03-08.14.03:477][596]Cmd: EDIT COPY
+[2019.04.03-08.14.03:746][620]Cmd: EDIT PASTE
+[2019.04.03-08.14.11:618][227]LogEditorViewport: Clicking on Actor (LMB): Wall_Window_01_C (Wall_Window_2)
+[2019.04.03-08.14.25:169][401]Cmd: TRANSACTION UNDO
+[2019.04.03-08.14.25:169][401]LogEditorTransaction: Undo Move Actors
+[2019.04.03-08.14.26:181][485]LogEditorViewport: Clicking on Actor (LMB): Wall_01_C (Wall_118)
+[2019.04.03-08.14.38:138][485]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-08.14.45:468][230]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-08.14.46:192][298]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-08.14.58:826][423]LogEditorViewport: Clicking on Actor (LMB): Wall_Window_01_C (Wall_Window_01)
+[2019.04.03-08.15.00:450][586]Cmd: EDIT COPY
+[2019.04.03-08.15.00:740][614]Cmd: EDIT PASTE
+[2019.04.03-08.15.11:789][569]LogEditorViewport: Clicking on Actor (LMB): Wall_Window_01_C (Wall_Window_3)
+[2019.04.03-08.15.12:389][629]LogEditorViewport: Clicking on Actor (LMB): Wall_Window_01_C (Wall_Window_3)
+[2019.04.03-08.15.15:351][917]LogEditorViewport: Clicking on Actor (LMB): Wall_01_C (Wall_144)
+[2019.04.03-08.15.16:239][999]Cmd: DELETE
+[2019.04.03-08.15.16:239][999]Cmd: ACTOR DELETE
+[2019.04.03-08.15.16:302][999]LogEditorActor: Deleted Actor: Wall_01_C
+[2019.04.03-08.15.16:356][999]LogEditorActor: Deleted 1 Actors (0.117 secs)
+[2019.04.03-08.15.20:818][478]Cmd: TRANSACTION UNDO
+[2019.04.03-08.15.20:818][478]LogEditorTransaction: Undo Delete Actors
+[2019.04.03-08.15.24:710][804]LogEditorViewport: Clicking on Actor (LMB): Wall_Window_01_C (Wall_Window_3)
+[2019.04.03-08.15.25:726][898]Cmd: DELETE
+[2019.04.03-08.15.25:727][898]Cmd: ACTOR DELETE
+[2019.04.03-08.15.25:794][898]LogEditorActor: Deleted Actor: Wall_Window_01_C
+[2019.04.03-08.15.25:837][898]LogEditorActor: Deleted 1 Actors (0.110 secs)
+[2019.04.03-08.15.29:559][275]Cmd: TRANSACTION UNDO
+[2019.04.03-08.15.29:559][275]LogEditorTransaction: Undo Delete Actors
+[2019.04.03-08.15.36:007][803]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-08.15.39:751][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-08.15.55:637][501]LogEditorViewport: Clicking on Actor (context menu): Wall_Window_01_C (Wall_Window_3)
+[2019.04.03-08.15.55:657][501]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-08.15.57:957][676]Cmd: ACTOR MIRROR X=-1
+[2019.04.03-08.15.59:335][813]Cmd: TRANSACTION UNDO
+[2019.04.03-08.15.59:336][813]LogEditorTransaction: Undo Mirroring Actors
+[2019.04.03-08.15.59:952][866]LogEditorViewport: Clicking on Actor (context menu): Wall_Window_01_C (Wall_Window_3)
+[2019.04.03-08.15.59:971][866]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-08.16.02:009][ 35]Cmd: ACTOR MIRROR Y=-1
+[2019.04.03-08.16.13:128][108]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_71)
+[2019.04.03-08.16.14:136][199]Cmd: DELETE
+[2019.04.03-08.16.14:136][199]Cmd: ACTOR DELETE
+[2019.04.03-08.16.14:206][199]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.04.03-08.16.14:255][199]LogEditorActor: Deleted 1 Actors (0.120 secs)
+[2019.04.03-08.16.22:670][136]Cmd: TRANSACTION UNDO
+[2019.04.03-08.16.22:670][136]LogEditorTransaction: Undo Delete Actors
+[2019.04.03-08.16.23:936][250]LogEditorViewport: Clicking on Actor (LMB): Wall_Window_01_C (Wall_Window_3)
+[2019.04.03-08.16.28:470][693]LogEditorViewport: Clicking on Actor (LMB): Wall_Window_01_C (Wall_Window_3)
+[2019.04.03-08.16.29:564][800]LogEditorViewport: Clicking on Actor (LMB): Wall_Window_01_C (Wall_Window_3)
+[2019.04.03-08.16.30:377][876]Cmd: DELETE
+[2019.04.03-08.16.30:377][876]Cmd: ACTOR DELETE
+[2019.04.03-08.16.30:456][876]LogEditorActor: Deleted Actor: Wall_Window_01_C
+[2019.04.03-08.16.30:505][876]LogEditorActor: Deleted 1 Actors (0.127 secs)
+[2019.04.03-08.16.50:492][866]LogEditorViewport: Clicking on Actor (LMB): Cupboard_Preset_01_C (Cupboard_Preset_2)
+[2019.04.03-08.16.53:035][ 97]Cmd: EDIT COPY
+[2019.04.03-08.16.53:284][120]Cmd: EDIT PASTE
+[2019.04.03-08.17.25:638][  1]LogEditorViewport: Clicking on Actor (LMB): Cupboard_Preset_01_C (Cupboard_Preset_3)
+[2019.04.03-08.17.38:110][152]Cmd: EDIT PASTE
+[2019.04.03-08.18.05:172][457]LogEditorViewport: Clicking on Actor (LMB): Cupboard_Preset_01_C (Cupboard_Preset_4)
+[2019.04.03-08.18.06:896][623]Cmd: EDIT COPY
+[2019.04.03-08.18.07:172][648]Cmd: EDIT PASTE
+[2019.04.03-08.18.14:663][249]LogEditorViewport: Clicking on Actor (LMB): Cupboard_Preset_05_C (Cupboard_Preset_05)
+[2019.04.03-08.18.15:730][346]Cmd: EDIT COPY
+[2019.04.03-08.18.15:977][368]Cmd: EDIT PASTE
+[2019.04.03-08.18.25:125][146]Cmd: EDIT COPY
+[2019.04.03-08.18.25:346][167]Cmd: EDIT PASTE
+[2019.04.03-08.18.32:116][808]LogEditorViewport: Clicking on Actor (LMB): Cupboard_Preset_05_C (Cupboard_Preset_6)
+[2019.04.03-08.18.38:154][367]LogEditorViewport: Clicking on Actor (LMB): Cupboard_Preset_05_C (Cupboard_Preset_7)
+[2019.04.03-08.18.45:489][979]LogEditorViewport: Clicking on Actor (LMB): Cupboard_Preset_01_C (Cupboard_Preset_5)
+[2019.04.03-08.18.48:092][226]LogEditorViewport: Clicking on Actor (LMB): Cupboard_Big_Preset_02_C (Cupboard_Big_Preset_4)
+[2019.04.03-08.18.49:258][343]Cmd: EDIT COPY
+[2019.04.03-08.18.49:485][366]Cmd: EDIT PASTE
+[2019.04.03-08.19.26:706][489]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-08.19.28:963][489]LogSavePackage: Moving '../../../../../../Users/Mayra/Documents/Unreal Projects/MayraG_02/Saved/MG2_Auto61044DDBB4BDBED24F3885F8C9B1905DC.tmp' to '../../../../../../Users/Mayra/Documents/Unreal Projects/MayraG_02/Saved/Autosaves/Game/MayaG2/WorldMap/MG2_Auto6.umap'
+[2019.04.03-08.19.28:971][489]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MayaG2/WorldMap/MG2' took 2.221
+[2019.04.03-08.19.28:971][489]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.221
+[2019.04.03-08.19.37:052][185]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-08.19.42:798][625]LogEditorViewport: Clicking on Actor (LMB): Cupboard_Big_Preset_02_C (Cupboard_Big_Preset_4)
+[2019.04.03-08.19.43:975][727]Cmd: EDIT COPY
+[2019.04.03-08.19.44:207][746]Cmd: EDIT PASTE
+[2019.04.03-08.19.50:029][286]Cmd: DELETE
+[2019.04.03-08.19.50:029][286]Cmd: ACTOR DELETE
+[2019.04.03-08.19.50:102][286]LogEditorActor: Deleted Actor: Cupboard_Big_Preset_02_C
+[2019.04.03-08.19.50:143][286]LogEditorActor: Deleted 1 Actors (0.113 secs)
+[2019.04.03-08.19.54:405][747]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Statue_Stand)
+[2019.04.03-08.19.58:100][101]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Statue_Hooded_Metal)
+[2019.04.03-08.19.58:123][101]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-08.20.01:216][382]Cmd: EDIT COPY
+[2019.04.03-08.20.01:492][410]Cmd: EDIT PASTE
+[2019.04.03-08.20.33:816][952]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-08.20.37:849][362]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-08.21.34:674][907]LogEditorViewport: Clicking on Actor (LMB): Cupboard_Preset_01_C (Cupboard_Preset_4)
+[2019.04.03-08.21.36:164][ 45]Cmd: EDIT COPY
+[2019.04.03-08.21.36:426][ 68]Cmd: EDIT PASTE
+[2019.04.03-08.21.44:216][700]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-08.21.47:812][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-08.21.51:488][401]LogEditorViewport: Clicking on Actor (LMB): Wall_Corner_Preset_02_C (Wall_Corner_Preset_7)
+[2019.04.03-08.22.00:502][141]Cmd: TRANSACTION UNDO
+[2019.04.03-08.22.00:502][141]LogEditorTransaction: Undo Move Actors
+[2019.04.03-08.22.11:704][181]LogSlate: FSceneViewport::OnFocusLost() reason 0
